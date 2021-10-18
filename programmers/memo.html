@@ -1,0 +1,31 @@
+<script>
+    function conc_self_scores(i,j) {
+        if (i === j) {
+                    var self_score = scores[i][j]
+                    self_scores.push(self_score);
+                    self_scores.sort(function(a,b){
+                        return b-a;
+                    });
+        }
+    }
+
+    function solution(scores) {
+        for(i = 0 ; i < scores[i].length ; i++){
+            for (j = 0 ; j < scores[i].length ; j++){
+                conc_self_scores(i,j);
+                var max_score = self_scores[0];
+                var min_score = self_scores[self_scores.length - 1];
+            }
+        }
+    }
+
+    var self_scores = [];
+
+    var scores = [
+        student_a = [70,49,90],
+        student_b = [68,50,38],
+        student_c = [73,31,100]
+    ]
+    var answer = solution(scores);
+    </script>
+
