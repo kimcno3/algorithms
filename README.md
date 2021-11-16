@@ -3,6 +3,9 @@
 - [**부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/moneyCalculator.md)
 - [**모음사전**](https://github.com/kimcno3/algorithms/blob/main/programmers/vowelsDictionary.md)
 
+### 카카오
+- [**새로운 아이디 추천**](https://github.com/kimcno3/algorithms/blob/main/programmers/newId.md)
+
 # :pushpin: 인프런
 - [**소수찾기**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/findPirmeNumber.md)
 - [**구구단**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/gugudan.md)
