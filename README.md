@@ -10,7 +10,9 @@
 - [**완주하지 못한 선수**](https://github.com/kimcno3/algorithms/blob/main/programmers/marathon.md)
 
 ## 카카오
-- [**새로운 아이디 추천**](https://github.com/kimcno3/algorithms/blob/main/programmers/newId.md)
+- [**새로운 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/newId.md)
+- [**크레인 인형뽑기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/clawCraneGame.md)
+
 
 # :pushpin: 인프런
 - [**소수찾기**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/findPirmeNumber.md)
