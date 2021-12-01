@@ -13,11 +13,10 @@
 - [**새로운 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/newId.md)
 - [**크레인 인형뽑기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/clawCraneGame.md)
 
-
-# :pushpin: 인프런
-- [**소수찾기**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/findPirmeNumber.md)
-- [**구구단**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/gugudan.md)
-- [**계산기**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/calculator.md)
-- [**단어퍼즐**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/wordsPuzzle.md)
+# :pushpin: 기타
+- [**소수찾기**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/findPirmeNumber.md)
+- [**구구단**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/gugudan.md)
+- [**계산기**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/calculator.md)
+- [**단어퍼즐**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/wordsPuzzle.md)
 
 <br>
