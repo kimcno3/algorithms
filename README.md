@@ -22,5 +22,5 @@
 
 <br>
 
-- [**쇠막대기(스택)**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/.md)
+- [**쇠막대기(스택)**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/cuttingBar.md)
 <br>
