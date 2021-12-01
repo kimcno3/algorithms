@@ -14,9 +14,13 @@
 - [**크레인 인형뽑기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/clawCraneGame.md)
 
 # :pushpin: 기타
+## 인프런
 - [**소수찾기**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/findPirmeNumber.md)
 - [**구구단**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/gugudan.md)
 - [**계산기**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/calculator.md)
 - [**단어퍼즐**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/wordsPuzzle.md)
 
+<br>
+
+- [**쇠막대기(스택)**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/.md)
 <br>
