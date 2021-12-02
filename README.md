@@ -8,6 +8,8 @@
 - [**K번째 수**](https://github.com/kimcno3/algorithms/blob/main/programmers/k_number.md)
 ### 해쉬
 - [**완주하지 못한 선수**](https://github.com/kimcno3/algorithms/blob/main/programmers/marathon.md)
+### 완전탐색
+- [**모의고사**](https://github.com/kimcno3/algorithms/blob/main/programmers/mockExam.md)
 
 ## 카카오
 - [**새로운 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/newId.md)
