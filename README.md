@@ -29,4 +29,5 @@
 <br>
 
 ## 프로그램 구현
-- [**숫자야구(미완성)**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/numberBaseball.html)
+- [**숫자야구(구현 설명)**](https://github.com/code-squad/test-item-pool/blob/master/level2-common/level2.md)
+- [**숫자야구(미완성 코드)**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/numberBaseball.html)
