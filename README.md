@@ -1,6 +1,6 @@
 # :pushpin: 알고리즘 모음
 
-# :pushpin: 프로그래머스 
+# 프로그래머스 
 ## Weekly Challenge
 - [**부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/moneyCalculator.md)
 - [**모음사전**](https://github.com/kimcno3/algorithms/blob/main/programmers/vowelsDictionary.md)
@@ -17,7 +17,9 @@
 - [**새로운 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/newId.md)
 - [**크레인 인형뽑기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/clawCraneGame.md)
 
-# :pushpin: 기타
+***
+
+# 기타
 ## 인프런
 - [**소수찾기**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/findPirmeNumber.md)
 - [**구구단**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/gugudan.md)
