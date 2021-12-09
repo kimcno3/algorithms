@@ -1,4 +1,4 @@
-# :pushpin:프로그래머스 
+# :pushpin: 프로그래머스 
 ## Weekly Challenge
 - [**부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/moneyCalculator.md)
 - [**모음사전**](https://github.com/kimcno3/algorithms/blob/main/programmers/vowelsDictionary.md)
@@ -25,4 +25,8 @@
 <br>
 
 - [**쇠막대기(스택)**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/cuttingBar.md)
+
 <br>
+
+## 프로그램 구현
+- [**숫자야구(미완성)**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/numberBaseball.html)
