@@ -21,12 +21,13 @@
 
 ***
 
-# 기타
-## 인프런
-- [**소수찾기**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/findPirmeNumber.md)
-- [**구구단**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/gugudan.md)
-- [**계산기**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/calculator.md)
-- [**단어퍼즐**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/wordsPuzzle.md)
+# 인프런
+## 쉽고 자연스럽게 배워보는 Javascript 입문 by 호눅스님
+
+- [**소수찾기**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/findPirmeNumber.md)
+- [**구구단**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/gugudan.md)
+- [**계산기**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/calculator.md)
+- [**단어퍼즐**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/wordsPuzzle.md)
 
 <br>
 
