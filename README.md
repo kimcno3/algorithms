@@ -1,6 +1,6 @@
 # :pushpin: 알고리즘 모음
 
-# 프로그래머스 
+# 프로그래머스
 ## Weekly Challenge
 - [**부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/moneyCalculator.md)
 - [**모음사전**](https://github.com/kimcno3/algorithms/blob/main/programmers/vowelsDictionary.md)
@@ -12,6 +12,8 @@
 - [**완주하지 못한 선수**](https://github.com/kimcno3/algorithms/blob/main/programmers/marathon.md)
 ### 완전탐색
 - [**모의고사**](https://github.com/kimcno3/algorithms/blob/main/programmers/mockExam.md)
+### 스택
+- [**쇠막대기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/cuttingBar.md)
 
 ## 카카오
 - [**새로운 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/newId.md)
@@ -25,10 +27,6 @@
 - [**구구단**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/gugudan.md)
 - [**계산기**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/calculator.md)
 - [**단어퍼즐**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/wordsPuzzle.md)
-
-<br>
-
-- [**쇠막대기(스택)**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/cuttingBar.md)
 
 <br>
 
