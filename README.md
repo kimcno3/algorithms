@@ -19,6 +19,9 @@
 - [**새로운 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/newId.md)
 - [**크레인 인형뽑기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/clawCraneGame.md)
 
+## 기타
+- [**서울에서 김서방찾기**](https://github.com/kimcno3/algorithms/blob/main/programmers/findKim.md)
+
 <br>
 
 # :pushpin: 인프런
