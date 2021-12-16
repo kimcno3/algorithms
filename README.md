@@ -8,6 +8,7 @@
 ## Weekly Challenge
 - [**부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/moneyCalculator.md)
 - [**모음사전**](https://github.com/kimcno3/algorithms/blob/main/programmers/vowelsDictionary.md)
+- [**수박수박수박수박수박수?**](https://github.com/kimcno3/algorithms/blob/main/programmers/waterMelon.md)
 
 ## 코딩테스트 고득점 kit
 ### 정렬
