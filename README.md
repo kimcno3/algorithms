@@ -21,6 +21,7 @@
 
 ## 기타
 - [**서울에서 김서방찾기**](https://github.com/kimcno3/algorithms/blob/main/programmers/findKim.md)
+- [**가운데 글자 가져오기**](https://github.com/kimcno3/algorithms/blob/main/programmers/midString.md)
 
 <br>
 
