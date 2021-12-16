@@ -4,11 +4,11 @@
 ## 기초
 - [**서울에서 김서방찾기**](https://github.com/kimcno3/algorithms/blob/main/programmers/findKim.md)
 - [**가운데 글자 가져오기**](https://github.com/kimcno3/algorithms/blob/main/programmers/midString.md)
+- [**수박수박수박수박수박수?**](https://github.com/kimcno3/algorithms/blob/main/programmers/waterMelon.md)
 
 ## Weekly Challenge
 - [**부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/moneyCalculator.md)
 - [**모음사전**](https://github.com/kimcno3/algorithms/blob/main/programmers/vowelsDictionary.md)
-- [**수박수박수박수박수박수?**](https://github.com/kimcno3/algorithms/blob/main/programmers/waterMelon.md)
 
 ## 코딩테스트 고득점 kit
 ### 정렬
