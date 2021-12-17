@@ -41,6 +41,7 @@
 - [**섹션4 : 완전탐색(블루투포스)**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section4.md)
 - [**섹션5 : 투포인터, 윈도우슬라이딩, 해쉬**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section5.md)
 - [**섹션6 : 스택, 큐**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section6.md)
+- [**섹션7 : 정렬, 그리디, 결정 알고리즘**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section7.md)
 
 <br>
 
