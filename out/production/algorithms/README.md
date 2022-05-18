@@ -1,5 +1,9 @@
 # 알고리즘 모음
 
+# :pushpin: 백준
+## 자료구조
+- [**2605번 : 줄세우기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/2605.md)
+
 # :pushpin: 프로그래머스
 ## 기초
 - [**서울에서 김서방찾기**](https://github.com/kimcno3/algorithms/blob/main/programmers/findKim.md)
