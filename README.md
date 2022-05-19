@@ -3,6 +3,7 @@
 # :pushpin: 백준
 ## 자료구조
 - [**2605번 : 줄세우기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/Main_2605.java)
+- [**10799번 : 쇠막대기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/Main_10799.java)
 
 # :pushpin: 프로그래머스
 ## 기초
