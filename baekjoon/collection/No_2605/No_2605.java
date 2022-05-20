@@ -1,8 +1,8 @@
-package baekjoon.collection;
+package baekjoon.collection.No_2605;
 
 import java.util.*;
 
-public class Main_2605 {
+public class No_2605 {
   public static void main(String[] args) throws Exception {
     Scanner sc = new Scanner(System.in);
 
