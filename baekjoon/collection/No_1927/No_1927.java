@@ -7,7 +7,7 @@ public class No_1927 {
   public static void main(String[] args) throws Exception {
     Scanner sc = new Scanner(System.in);
     // 최고값이 우선순위인 PriorityQueue 생성
-    PriorityQueue<Integer> heap = new PriorityQueue<>();
+    PriorityQueue<Integer> heap = new PriorityQueue<>(Comparator.reverseOrder());
     // 반복문 횟수와 현재 숫자를 담을 변수 선언
     int length = sc.nextInt();
     Integer num;
