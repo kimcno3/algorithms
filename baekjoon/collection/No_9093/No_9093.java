@@ -3,15 +3,14 @@ package baekjoon.collection.No_9093;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.StringTokenizer;
 
 public class No_9093 {
 
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     // 결과값을 담을 변수 선언
-    // append()를 활용하기 위해 StringBuffer 타입으로 선언
-    StringBuffer result = new StringBuffer();
+    // append()를 활용하기 위해 StringBuilder 타입으로 선언
+    StringBuilder result = new StringBuilder();
     // 입력된 문장 개수
     int length = Integer.parseInt(br.readLine());
     // 문장 반복
@@ -20,8 +19,8 @@ public class No_9093 {
       String[] arr = br.readLine().split(" ");
       // 단어 반복
       for (int j=0; j<arr.length; j++) {
-        // StringBuffer로 형변환
-        StringBuffer word = new StringBuffer(arr[j]);
+        // StringBuilder 로 형변환
+        StringBuilder word = new StringBuilder(arr[j]);
         // 단어를 뒤집은 다음 result에 추가
         result.append(word.reverse() + " ");
       }
