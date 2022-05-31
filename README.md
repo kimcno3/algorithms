@@ -1,9 +1,18 @@
 # 알고리즘 모음
 
 # :pushpin: 백준
+## 문자열
+- [**11654 : 아스키**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/string/No_11654.java)
+- [**11720 : 숫자의 합**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/string/No_.java)
+- [**10809 : 알파벳 찾기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/string/No_.java)
+
+
 ## 자료구조
-- [**2605번 : 줄세우기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/Main_2605.java)
-- [**10799번 : 쇠막대기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/Main_10799.java)
+- [**2605 : 줄세우기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_2605.java)
+- [**10799 : 쇠막대기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_10799.java)
+- [**1927 : 최소힙**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_10799.java)
+- [**9093 : 단어 뒤집기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_10799.java)
+- [**17413 : 단어 뒤집기 2**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_10799.java)
 
 # :pushpin: 프로그래머스
 ## 기초
