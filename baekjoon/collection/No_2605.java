@@ -1,4 +1,4 @@
-package baekjoon.collection.No_2605;
+package baekjoon.collection;
 
 import java.util.*;
 

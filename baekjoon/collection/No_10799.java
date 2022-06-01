@@ -1,4 +1,4 @@
-package baekjoon.collection.No_10799;
+package baekjoon.collection;
 
 import java.util.LinkedList;
 import java.util.Scanner;

@@ -3,40 +3,41 @@
 # :pushpin: 백준
 ## 문자열
 - [**11654 : 아스키**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/string/No_11654.java)
-- [**11720 : 숫자의 합**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/string/No_.java)
-- [**10809 : 알파벳 찾기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/string/No_.java)
+- [**11720 : 숫자의 합**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/string/No_11720.java)
+- [**10809 : 알파벳 찾기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/string/No_10809.java)
 
 
 ## 자료구조
 - [**2605 : 줄세우기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_2605.java)
 - [**10799 : 쇠막대기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_10799.java)
-- [**1927 : 최소힙**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_10799.java)
-- [**9093 : 단어 뒤집기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_10799.java)
-- [**17413 : 단어 뒤집기 2**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_10799.java)
+- [**1927 : 최소힙**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_1927.java)
+- [**9093 : 단어 뒤집기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_9093.java)
+- [**17413 : 단어 뒤집기 2**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_17413.java)
 
 # :pushpin: 프로그래머스
 ## 기초
-- [**서울에서 김서방찾기**](https://github.com/kimcno3/algorithms/blob/main/programmers/findKim.md)
-- [**가운데 글자 가져오기**](https://github.com/kimcno3/algorithms/blob/main/programmers/midString.md)
-- [**수박수박수박수박수박수?**](https://github.com/kimcno3/algorithms/blob/main/programmers/waterMelon.md)
+- [**서울에서 김서방찾기**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/findKim.md)
+- [**가운데 글자 가져오기**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/midString.md)
+- [**수박수박수박수박수박수?**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/waterMelon.md)
 
 ## Weekly Challenge
-- [**부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/moneyCalculator.md)
-- [**모음사전**](https://github.com/kimcno3/algorithms/blob/main/programmers/vowelsDictionary.md)
+- [**부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/moneyCalculator.md)
+- [**모음사전**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/vowelsDictionary.md)
 
 ## 코딩테스트 고득점 kit
 ### 정렬
-- [**K번째 수**](https://github.com/kimcno3/algorithms/blob/main/programmers/k_number.md)
+- [**K번째 수**](https://github.com/kimcno3/algorithms/blob/main/programmers/highScoreKit/k_number.md)
 ### 해쉬
-- [**완주하지 못한 선수**](https://github.com/kimcno3/algorithms/blob/main/programmers/marathon.md)
+- [**완주하지 못한 선수**](https://github.com/kimcno3/algorithms/blob/main/programmers/highScoreKit/marathon.md)
 ### 완전탐색
-- [**모의고사**](https://github.com/kimcno3/algorithms/blob/main/programmers/mockExam.md)
+- [**모의고사**](https://github.com/kimcno3/algorithms/blob/main/programmers/highScoreKit/mockExam.md)
 ### 스택
-- [**쇠막대기**](https://github.com/kimcno3/algorithms/blob/main/programmers/cuttingBar.md)
+- [**쇠막대기**](https://github.com/kimcno3/algorithms/blob/main/programmers/highScoreKit/cuttingBar.md)
 
-## 카카오
-- [**새로운 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/newId.md)
-- [**크레인 인형뽑기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/clawCraneGame.md)
+## Level 1
+- [**새로운 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/newId.md)
+- [**크레인 인형뽑기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/clawCraneGame.md)
+- [**키패드 누르기(이중 루프)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/keyPad.java)
 
 
 <br>
