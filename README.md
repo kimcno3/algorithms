@@ -20,6 +20,13 @@
 - [**가운데 글자 가져오기**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/midString.md)
 - [**수박수박수박수박수박수?**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/waterMelon.md)
 
+## Level 1
+- [**새로운 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/newId.md)
+- [**크레인 인형뽑기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/clawCraneGame.md)
+- [**키패드 누르기(이중 루프)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/keyPad.java)
+- [**숫자 문자열과 영단어(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/NumberStringAndEnglish.java)
+
+
 ## Weekly Challenge
 - [**부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/moneyCalculator.md)
 - [**모음사전**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/vowelsDictionary.md)
@@ -33,12 +40,6 @@
 - [**모의고사**](https://github.com/kimcno3/algorithms/blob/main/programmers/highScoreKit/mockExam.md)
 ### 스택
 - [**쇠막대기**](https://github.com/kimcno3/algorithms/blob/main/programmers/highScoreKit/cuttingBar.md)
-
-## Level 1
-- [**새로운 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/newId.md)
-- [**크레인 인형뽑기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/clawCraneGame.md)
-- [**키패드 누르기(이중 루프)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/keyPad.java)
-
 
 <br>
 
