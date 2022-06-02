@@ -11,6 +11,7 @@ public class NumberStringAndEnglish {
 //    System.out.println("2three45sixseven = " + solution("2three45sixseven"));
 //    System.out.println("123 = " + solution("123"));
 //    System.out.println("2fourfive09eight = " + solution("2fourfive09eight"));
+//    System.out.println("2twotwotwo = " + solution2("2twotwotwo"));
 
     System.out.println("one4seveneight = " + solution2("one4seveneight"));
     System.out.println("23four5six7 = " + solution2("23four5six7"));
