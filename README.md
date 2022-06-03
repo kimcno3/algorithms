@@ -25,6 +25,9 @@
 - [**크레인 인형뽑기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/clawCraneGame.md)
 - [**키패드 누르기(이중 루프)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/keyPad.java)
 - [**숫자 문자열과 영단어(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/NumberStringAndEnglish.java)
+- [**없는 숫자 더하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/PlusNotExistNumber.java)
+- [**음양 더하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/InnerPlus.java)
+- [**내적(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/PlusDarkBright.java)
 
 
 ## Weekly Challenge

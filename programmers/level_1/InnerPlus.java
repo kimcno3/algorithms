@@ -1,5 +1,6 @@
 package programmers.level_1;
 
+// 내적 : https://programmers.co.kr/learn/courses/30/lessons/70128
 public class InnerPlus {
 
   public static void main(String[] args) {

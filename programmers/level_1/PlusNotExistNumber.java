@@ -1,9 +1,7 @@
 package programmers.level_1;
 
-import java.util.*;
-
-// 업는 숫자 더하기 : https://programmers.co.kr/learn/courses/30/lessons/86051
-public class PlusNumber {
+// 없는 숫자 더하기 : https://programmers.co.kr/learn/courses/30/lessons/86051
+public class PlusNotExistNumber {
   public static void main(String[] args) {
     int[] numbers = {1,2,3,4,6,7,8,0};
     System.out.println("" + solution(numbers));
