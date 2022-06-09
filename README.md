@@ -30,6 +30,7 @@
 - [**[JAVA]음양 더하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/InnerPlus.java)
 - [**[JAVA]내적(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/PlusDarkBright.java)
 - [**[JAVA]소수 만들기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/MakePrimeNumber.java)
+- [**[JAVA]신고 결과 받기(자료구조)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/ReportId.java)
 
 ## Weekly Challenge
 - [**[Javascript]부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/moneyCalculator.md)
