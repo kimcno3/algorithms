@@ -17,6 +17,9 @@ public class TrainingSuit {
     int lostCount = lost.length;
     Set<Integer> set = new HashSet<>();
 
+    Arrays.sort(lost);
+    Arrays.sort(reserve);
+
     for (int lostStudent : lost) {
       for (int reserveStudent : reserve) {
         // 잃어버린 학생과 빌려줄 수 있는 학생과 붙어있지 않은 경우 또는 이미 빌려주기로 한 학생이 있는 경우
