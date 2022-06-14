@@ -10,8 +10,14 @@ public class TrainingSuit {
     int[] lost1 = {2,4};
     int[] reserve1 = {1,3,5};
     System.out.println(solution(n1, lost1, reserve1));
+
+    // 5, 12번 테스트 케이스
+    int n2 = 3;
+    int[] lost2 = {1,2};
+    int[] reserve2 = {2,3};
   }
 
+  // 1차 작성 코드 (5, 12번 테스트 코드 실패)
   public static int solution(int n, int[] lost, int[] reserve) {
     int answer = 0;
     int lostCount = lost.length;
@@ -39,5 +45,6 @@ public class TrainingSuit {
     answer = n-lostCount;
     return answer;
   }
+
 
 }
