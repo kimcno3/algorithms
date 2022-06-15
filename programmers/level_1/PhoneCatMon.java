@@ -3,7 +3,7 @@ package programmers.level_1;
 import java.util.HashSet;
 
 // 폰켓몬 : https://programmers.co.kr/learn/courses/30/lessons/1845
-public class phoneCatMon {
+public class PhoneCatMon {
 
   public static void main(String[] args) {
     int[] nums = {3,1,2,3};
