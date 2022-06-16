@@ -12,10 +12,12 @@ public class CalcDivisor {
 
     for (int i=left; i<=right; i++) {
       double sqrt = Math.sqrt((double) i);
-      // 제곱수일 경우가 약수가 홀수인 경우 이므로
+      // 약수가 홀수인 경우 -> 제곱수일 경우이므로 소숫점을 제거한 값과 동일하다 제곱수로 판단한다.
       if (sqrt == Math.floor(sqrt)) {
         answer -= i;
-      } else {
+      }
+      // 그 외 경우는 모두 약수가 짝수인 경우로 판단한다.
+      else {
         answer += i;
       }
     }
