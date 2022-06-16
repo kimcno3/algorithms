@@ -35,6 +35,7 @@
 - [**[JAVA]체육복(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/TrainingSuit.java)
 - [**[JAVA]폰켓몬(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/PhoneCatMon.java)
 - [**[JAVA]실패율(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/FailureRate.java)
+- [**[JAVA]약수의 개수와 덧셈(약수)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/CalcDivisor.java)
 
 ## Weekly Challenge
 - [**[Javascript]부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/moneyCalculator.md)
