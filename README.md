@@ -37,6 +37,10 @@
 - [**[JAVA]실패율(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/FailureRate.java)
 - [**[JAVA]약수의 개수와 덧셈(약수)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/CalcDivisor.java)
 
+## Level 2
+- [**[JAVA]문자열 압축(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ReductionString.java)
+
+
 ## Weekly Challenge
 - [**[Javascript]부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/moneyCalculator.md)
 - [**[Javascript]모음사전**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/vowelsDictionary.md)
