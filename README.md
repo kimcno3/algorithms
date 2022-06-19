@@ -39,6 +39,7 @@
 
 ## Level 2
 - [**[JAVA]문자열 압축(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ReductionString.java)
+- [**[JAVA]오픈 채팅방(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/OpenChattingRoom.java)
 
 
 ## Weekly Challenge
