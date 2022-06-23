@@ -36,6 +36,7 @@
 - [**[JAVA]폰켓몬(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/PhoneCatMon.java)
 - [**[JAVA]실패율(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/FailureRate.java)
 - [**[JAVA]약수의 개수와 덧셈(약수)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/CalcDivisor.java)
+- [**[JAVA]완주하지 못한 선수(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/Marathon.java)
 
 ## Level 2
 - [**[JAVA]문자열 압축(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ReductionString.java)
