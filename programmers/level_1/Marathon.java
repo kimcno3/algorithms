@@ -44,6 +44,7 @@ public class Marathon {
     HashMap<String, Integer> map = new HashMap<>();
 
     for (String str : participant) {
+      // getOrDefault(key, default) -> key로 탐색한 값이 있다면 그 값을 리턴, 없다면 default값을 리턴
       map.put(str, map.getOrDefault(str, 0) + 1);
     }
 
