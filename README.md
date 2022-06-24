@@ -37,10 +37,12 @@
 - [**[JAVA]실패율(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/FailureRate.java)
 - [**[JAVA]약수의 개수와 덧셈(약수)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/CalcDivisor.java)
 - [**[JAVA]완주하지 못한 선수(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/Marathon.java)
+- [**[JAVA]예산(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/Budget.java)
 
 ## Level 2
 - [**[JAVA]문자열 압축(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ReductionString.java)
 - [**[JAVA]오픈 채팅방(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/OpenChattingRoom.java)
+- [**[JAVA]기능개발(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FunctionDev.java)
 
 
 ## Weekly Challenge
