@@ -6,10 +6,13 @@ import java.util.*;
 public class RemoveCouple {
 
   public static void main(String[] args) {
-    System.out.println(solution("baabaa"));
-    System.out.println(solution("sdsd"));
-  }
+    // System.out.println(solution("baabaa"));
+    // System.out.println(solution("sdsd"));
 
+    System.out.println(solution2("baabaa"));
+    System.out.println(solution2("sdsd"));
+  }
+  // 1차 시도
   public static int solution(String s) {
     int answer = -1;
     boolean flag = true;
@@ -40,6 +43,33 @@ public class RemoveCouple {
         answer = 1;
         flag = false;
       }
+    }
+    return answer;
+  }
+  // 2차 시도
+  public static int solution2(String s){
+    int answer = -1;
+    char[] arr = s.toCharArray();
+    Stack<Character> stack = new Stack<>();
+
+    for (char ch : arr) {
+      // stack 에 담긴 값이 없다면 push
+      if (stack.size() == 0) {
+        stack.push(ch);
+        continue;
+      }
+      // 같은 값이 들어올 경우 pop, 그 외의 경우는 push
+      if(stack.peek() == ch)  {
+        stack.pop();
+      } else {
+        stack.push(ch);
+      }
+    }
+    // stack의 길이가 0이면 모든 문자열을 제거했다는 뜻 , 그 외의 경우는 실패
+    if (stack.size() == 0) {
+      answer = 1;
+    } else {
+      answer = 0;
     }
     return answer;
   }
