@@ -44,6 +44,7 @@
 - [**[JAVA]오픈 채팅방(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/OpenChattingRoom.java)
 - [**[JAVA]기능개발(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FunctionDev.java)
 - [**[JAVA]124 나라의 숫자**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Country124.java)
+- [**[JAVA]짝지어 제거하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RemoveCouple.java)
 
 
 ## Weekly Challenge
