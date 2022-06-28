@@ -48,7 +48,6 @@ public class RemoveCouple {
   }
   // 2차 시도
   public static int solution2(String s){
-    int answer = -1;
     char[] arr = s.toCharArray();
     Stack<Character> stack = new Stack<>();
 
@@ -67,11 +66,11 @@ public class RemoveCouple {
     }
     // stack의 길이가 0이면 모든 문자열을 제거했다는 뜻 , 그 외의 경우는 실패
     if (stack.size() == 0) {
-      answer = 1;
+      return 1;
     } else {
-      answer = 0;
+      return 0;
     }
-    return answer;
+
   }
 
 }
