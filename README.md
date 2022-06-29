@@ -6,13 +6,16 @@
 - [**[JAVA]11720 : 숫자의 합**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/string/No_11720.java)
 - [**[JAVA]10809 : 알파벳 찾기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/string/No_10809.java)
 
-
 ## 자료구조
 - [**[JAVA]2605 : 줄세우기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_2605.java)
 - [**[JAVA]10799 : 쇠막대기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_10799.java)
 - [**[JAVA]1927 : 최소힙**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_1927.java)
 - [**[JAVA]9093 : 단어 뒤집기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_9093.java)
 - [**[JAVA]17413 : 단어 뒤집기 2**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_17413.java)
+
+## 재귀함수
+- [**[JAVA]10870 : 피보나치 수열**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_10870.java)
+- [**[JAVA]15650 : N과 M(2)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_15650.java)
 
 # :pushpin: 프로그래머스
 ## 기초
@@ -47,7 +50,6 @@
 - [**[JAVA]124 나라의 숫자**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Country124.java)
 - [**[JAVA]짝지어 제거하기(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RemoveCouple.java)
 - [**[JAVA]더 맵게(힙)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MoreSpicy.java)
-
 
 ## Weekly Challenge
 - [**[Javascript]부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/moneyCalculator.md)
