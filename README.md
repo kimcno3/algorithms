@@ -15,7 +15,7 @@
 
 ## 재귀함수
 - [**[JAVA]10870 : 피보나치 수열**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_10870.java)
-- [**[JAVA]15650 : N과 M(1)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_15649.java)
+- [**[JAVA]15649 : N과 M(1)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_15649.java)
 - [**[JAVA]15650 : N과 M(2)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_15650.java)
 
 # :pushpin: 프로그래머스
