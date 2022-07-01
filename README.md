@@ -17,6 +17,9 @@
 - [**[JAVA]10870 : 피보나치 수열**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_10870.java)
 - [**[JAVA]15650 : N과 M(1)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_15649.java)
 - [**[JAVA]15650 : N과 M(2)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_15650.java)
+- [**[JAVA]15651 : N과 M(3)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_15651.java)
+- [**[JAVA]15652 : N과 M(4)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_15652.java)
+- [**[JAVA]15652 : N과 M(5)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_15654.java)
 
 # :pushpin: 프로그래머스
 ## 기초
