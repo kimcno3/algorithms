@@ -26,7 +26,7 @@ public class No_15654 {
 
     strs = br.readLine().split(" ");
     for (int i=0; i<ints.length; i++) {
-      ints[i] = Integer.valueOf(strs[i]);
+      ints[i] = Integer.parseInt(strs[i]);
     }
 
     Arrays.sort(ints);
@@ -40,7 +40,7 @@ public class No_15654 {
 
     if (depth == m) {
       for (int val : arr) {
-        sb.append(val + " ");
+        sb.append(val).append(" ");
       }
       sb.append("\n");
       return;
