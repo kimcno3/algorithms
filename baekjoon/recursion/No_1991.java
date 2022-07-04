@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashMap;
 
-// 트리 순회
+// 트리 순회 : https://www.acmicpc.net/problem/1991
 public class No_1991 {
   static int n;
   static HashMap<String, Boolean> visit = new HashMap<>();
