@@ -22,6 +22,7 @@
 - [**[JAVA]15652 : N과 M(5)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_15654.java)
 - [**[JAVA]6603 : 로또**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_6603.java)
 - [**[JAVA]1991 : 트리 순회**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_1991.java)
+- [**[JAVA]9934 : 완전 이진 트리**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_9934.java)
 
 # :pushpin: 프로그래머스
 ## 기초
