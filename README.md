@@ -26,6 +26,7 @@
 - [**[JAVA]2630 : 색종이 만들기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_2630.java)
 - [**[JAVA]1992 : 쿼드트리**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_1992.java)
 - [**[JAVA]6012 : The Big Dance**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_6012.java)
+- [**[JAVA]9663 : N Queen**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_9663.java)
 
 # :pushpin: 프로그래머스
 ## 기초
