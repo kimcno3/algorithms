@@ -61,6 +61,7 @@
 - [**[JAVA]124 나라의 숫자**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Country124.java)
 - [**[JAVA]짝지어 제거하기(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RemoveCouple.java)
 - [**[JAVA]더 맵게(힙)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MoreSpicy.java)
+- [**[JAVA]프렌즈 4블럭(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Friend4Block.java)
 
 ## Weekly Challenge
 - [**[Javascript]부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/moneyCalculator.md)
