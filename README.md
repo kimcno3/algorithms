@@ -53,6 +53,7 @@
 - [**[JAVA]완주하지 못한 선수(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/Marathon.java)
 - [**[JAVA]예산(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/Budget.java)
 - [**[JAVA]두개 뽑아서 더하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/PlusTwoNumber.java)
+- [**[JAVA]비밀지도(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/SecretMap.java)
 
 ## Level 2
 - [**[JAVA]문자열 압축(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ReductionString.java)
