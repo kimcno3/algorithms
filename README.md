@@ -54,6 +54,7 @@
 - [**[JAVA]예산(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/Budget.java)
 - [**[JAVA]두개 뽑아서 더하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/PlusTwoNumber.java)
 - [**[JAVA]비밀지도(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/SecretMap.java)
+- [**[JAVA]다트게임(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/DartGame.java)
 
 ## Level 2
 - [**[JAVA]문자열 압축(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ReductionString.java)
