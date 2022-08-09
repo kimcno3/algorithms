@@ -1,5 +1,7 @@
 package programmers.level_2;
 
+
+// 괄호 변환 : https://school.programmers.co.kr/learn/courses/30/lessons/60058
 public class ChangeBracket {
 
 
@@ -55,28 +57,32 @@ public class ChangeBracket {
       method(v);
     }
 
-    // u가 올바른 문자열이 아닌경우 -> 여기를 다시 해봐야 하겠다.
+    // u가 올바른 문자열이 아닌경우
     else {
+      // 괄호 시작
       sb.append("(");
 
-      // v를 가지고 재귀 시작
+      // v를 가지고 재귀 실행
       method(v);
 
-      // 앞,뒤 괄호 제거
+      // 괄호 닫기
+      sb.append(")");
+
+      // u에 대한 앞,뒤 괄호 제거
       u = u.subSequence(1, u.length()-1).toString();
 
       // 괄호 방향 변경
-      String temp = "";
+      String tempU = "";
       for (int i=0; i<u.length(); i++) {
-        if (u.charAt(i) == '(') temp += ")";
-        else temp += "(";
+        if (u.charAt(i) == '(') tempU += ")";
+        else tempU += "(";
       }
 
-      u = temp;
+      u = tempU;
 
       sb.append(u);
-      sb.append(")");
     }
 
   }
+
 }
