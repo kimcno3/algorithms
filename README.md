@@ -68,6 +68,7 @@
 - [**[JAVA]괄 변환(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ChangeBracket.java)
 - [**[JAVA]타겟 넘버(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TargetNumber.java)
 - [**[JAVA]전화번호 목록(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/PhoneNumberList.java)
+- [**[JAVA]프린터(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/PhoneNumberList.java)
 
 ## Weekly Challenge
 - [**[Javascript]부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/moneyCalculator.md)
