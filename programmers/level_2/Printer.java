@@ -8,12 +8,15 @@ public class Printer {
   public static void main(String[] args) {
 
     Printer square = new Printer();
-    System.out.println(square.solution(new int[]{2,1,3,2}, 2)); // 1
-    System.out.println(square.solution(new int[]{1,1,9,1,1,1}, 0)); // 5
+//    System.out.println(square.solution(new int[]{2,1,3,2}, 2)); // 1
+//    System.out.println(square.solution(new int[]{1,1,9,1,1,1}, 0)); // 5
+    System.out.println(square.solution2(new int[]{2,1,3,2}, 2)); // 1
+    System.out.println(square.solution2(new int[]{1,1,9,1,1,1}, 0)); // 5
 
   }
 
-  // 1차 풀이 코드 : 테스트 코드 2,6,8,9,11,13,16 실패
+  //1차 풀이 코드 : 테스트 코드 2,6,8,9,11,13,16 실패
+
   public int solution(int[] priorities, int location) {
     int answer = 0;
 
@@ -25,7 +28,7 @@ public class Printer {
       queue.add(i);
     }
 
-    while(queue.size() > 0) {
+    while(!queue.isEmpty()) {
 
       int currentLocation = queue.peek();
       boolean isPriority = true;
@@ -62,4 +65,33 @@ public class Printer {
     }
     return answer;
   }
+
+  // 2차 풀이 코드
+  // PriorityQueue 활용
+
+  public int solution2(int[] priorities, int location) {
+    int answer = 0;
+    PriorityQueue<Integer> queue = new PriorityQueue<>(Comparator.reverseOrder());
+
+    for (int num : priorities) {
+      queue.add(num);
+    }
+
+    while(!queue.isEmpty()) {
+
+      for (int i=0; i<priorities.length; i++) {
+
+        if (priorities[i] == queue.peek()) {
+          if (i == location) {
+            answer++;
+            return answer;
+          }
+          answer++;
+          queue.poll();
+        }
+      }
+    }
+    return answer;
+  }
+
 }
