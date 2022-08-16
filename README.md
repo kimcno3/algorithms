@@ -71,6 +71,9 @@
 - [**[JAVA]프린터(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Printer.java)
 - [**[JAVA]가장 큰 수(정렬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/BiggestNumber.java)
 
+### F-Lab 코딩 테스트 문제
+- [**[JAVA]순위 검색(해시, 정렬, 이진 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RankSearch.java)
+
 ## Weekly Challenge
 - [**[Javascript]부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/moneyCalculator.md)
 - [**[Javascript]모음사전**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/vowelsDictionary.md)
