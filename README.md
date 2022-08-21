@@ -70,6 +70,7 @@
 - [**[JAVA]전화번호 목록(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/PhoneNumberList.java)
 - [**[JAVA]프린터(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Printer.java)
 - [**[JAVA]가장 큰 수(정렬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/BiggestNumber.java)
+- [**[JAVA]소수 찾기(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FindPrimeNumber.java)
 
 ### F-Lab 코딩 테스트 문제
 - [**[JAVA]순위 검색(해시, 정렬, 이진 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RankSearch.java)
