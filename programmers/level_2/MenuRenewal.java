@@ -35,6 +35,12 @@ class MenuRenewal {
       // map에 저장된 값들 중 최대값을 찾아 키값을 따로 저장하는 로직 구현 실패했고 답안 코드를 참고했습니다.
       // https://fbtmdwhd33.tistory.com/249
 
+      /*
+        entrySet() : key와 value 값이 모두 필요한 경우 사용
+        -> value들 중 최대값을 찾아내고
+        -> 최대값에 해당하는 key를 가져온다.
+       */
+
       // 최대값 조회
       int max = 0;
       for (Entry<String, Integer> entry : map.entrySet()) {
