@@ -2,6 +2,7 @@ package programmers.level_2;
 
 import java.util.*;
 
+// 최대값과 최소값 : https://school.programmers.co.kr/learn/courses/30/lessons/12939
 public class MaxAndMin {
 
     public static void main(String[] args) {
