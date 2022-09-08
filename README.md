@@ -75,6 +75,7 @@
 - [**[JAVA]메뉴 리뉴얼(문자열, 해시, 재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MenuRenewal.java)
 - [**[JAVA]행렬 테두리 회전하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/SpinRowColumn.java)
 - [**[JAVA]조이스틱(탐욕법)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/JoyStick.java)
+- [**[JAVA]최대값과 최소값(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MaxAndMin.java)
 
 ### F-Lab 코딩 테스트 문제
 - [**[JAVA]순위 검색(해시, 정렬, 이진 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RankSearch.java)
