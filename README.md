@@ -77,6 +77,7 @@
 - [**[JAVA]조이스틱(탐욕법)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/JoyStick.java)
 - [**[JAVA]최대값과 최소값(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MaxAndMin.java)
 - [**[JAVA]JadenCase 문자열 만들기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/JadenCase.java)
+- [**[JAVA]이진 변환 반복하기(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/BinaryRepeat.java)
 - [**[JAVA]최소값 만들기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MakeMin.java)
 - [**[JAVA]올바른 괄호(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/CorrectBracket.java)
 
