@@ -55,6 +55,7 @@
 - [**[JAVA]두개 뽑아서 더하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/PlusTwoNumber.java)
 - [**[JAVA]비밀지도(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/SecretMap.java)
 - [**[JAVA]다트게임(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/DartGame.java)
+- [**[JAVA]같은 숫자는 싫어(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/HateSameNumber.java)
 
 ## Level 2
 - [**[JAVA]문자열 압축(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ReductionString.java)
@@ -82,6 +83,7 @@
 - [**[JAVA]올바른 괄호(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/CorrectBracket.java)
 - [**[JAVA]영어 끝말잇기(해쉬/배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/EndToEnd.java)
 - [**[JAVA]위장(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Camouflage.java)
+- [**[JAVA]다리를 지나는 트럭(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TruckPassingBridge.java)
 
 ### F-Lab 코딩 테스트 문제
 - [**[JAVA]순위 검색(해시, 정렬, 이진 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RankSearch.java)
