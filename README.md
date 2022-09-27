@@ -58,32 +58,48 @@
 - [**[JAVA]같은 숫자는 싫어(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/HateSameNumber.java)
 
 ## Level 2
-- [**[JAVA]문자열 압축(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ReductionString.java)
-- [**[JAVA]오픈 채팅방(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/OpenChattingRoom.java)
-- [**[JAVA]기능개발(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FunctionDev.java)
-- [**[JAVA]124 나라의 숫자**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Country124.java)
-- [**[JAVA]짝지어 제거하기(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RemoveCouple.java)
-- [**[JAVA]더 맵게(힙)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MoreSpicy.java)
-- [**[JAVA]프렌즈 4블럭(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Friend4Block.java)
-- [**[JAVA]튜플(리스트)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Tuple.java)
-- [**[JAVA]괄 변환(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ChangeBracket.java)
-- [**[JAVA]타겟 넘버(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TargetNumber.java)
-- [**[JAVA]전화번호 목록(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/PhoneNumberList.java)
-- [**[JAVA]프린터(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Printer.java)
+
+### 정렬
 - [**[JAVA]가장 큰 수(정렬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/BiggestNumber.java)
-- [**[JAVA]소수 찾기(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FindPrimeNumber.java)
+
+### 스택/큐
+- [**[JAVA]프린터(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Printer.java)
+- [**[JAVA]기능개발(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FunctionDev.java)
+- [**[JAVA]짝지어 제거하기(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RemoveCouple.java)
+- [**[JAVA]프렌즈 4블럭(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Friend4Block.java)
+- [**[JAVA]올바른 괄호(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/CorrectBracket.java)
+- [**[JAVA]다리를 지나는 트럭(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TruckPassingBridge.java)
+
+### 해시
+- [**[JAVA]전화번호 목록(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/PhoneNumberList.java)
 - [**[JAVA]뉴스 클러스터링(문자열, 해시)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/NewsClustering.java)
 - [**[JAVA]메뉴 리뉴얼(문자열, 해시, 재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MenuRenewal.java)
-- [**[JAVA]행렬 테두리 회전하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/SpinRowColumn.java)
+- [**[JAVA]영어 끝말잇기(해쉬/배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/EndToEnd.java)
+- [**[JAVA]위장(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Camouflage.java)
+
+### 재귀
+- [**[JAVA]타겟 넘버(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TargetNumber.java)
+- [**[JAVA]괄 변환(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ChangeBracket.java)
+
+### 탐욕법
 - [**[JAVA]조이스틱(탐욕법)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/JoyStick.java)
+
+### 전체 탐색
+- [**[JAVA]소수 찾기(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FindPrimeNumber.java)
+
+### 힙
+- [**[JAVA]더 맵게(힙)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MoreSpicy.java)
+
+### 기타
+- [**[JAVA]문자열 압축(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ReductionString.java)
+- [**[JAVA]오픈 채팅방(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/OpenChattingRoom.java)
+- [**[JAVA]124 나라의 숫자**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Country124.java)
+- [**[JAVA]튜플(리스트)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Tuple.java)
+- [**[JAVA]행렬 테두리 회전하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/SpinRowColumn.java)
 - [**[JAVA]최대값과 최소값(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MaxAndMin.java)
 - [**[JAVA]JadenCase 문자열 만들기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/JadenCase.java)
 - [**[JAVA]이진 변환 반복하기(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/BinaryRepeat.java)
 - [**[JAVA]최소값 만들기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MakeMin.java)
-- [**[JAVA]올바른 괄호(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/CorrectBracket.java)
-- [**[JAVA]영어 끝말잇기(해쉬/배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/EndToEnd.java)
-- [**[JAVA]위장(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Camouflage.java)
-- [**[JAVA]다리를 지나는 트럭(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TruckPassingBridge.java)
 
 ### F-Lab 코딩 테스트 문제
 - [**[JAVA]순위 검색(해시, 정렬, 이진 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RankSearch.java)
