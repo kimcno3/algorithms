@@ -82,6 +82,10 @@
 - [**[JAVA]타겟 넘버(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TargetNumber.java)
 - [**[JAVA]괄 변환(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ChangeBracket.java)
 
+## BFS
+- [**[JAVA]게임 맵 최단거리(BFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/GameMinRoot.java)
+
+
 ### 탐욕법
 - [**[JAVA]조이스틱(탐욕법)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/JoyStick.java)
 
