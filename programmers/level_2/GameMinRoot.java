@@ -1,24 +1,99 @@
 package programmers.level_2;
 
 import java.util.Arrays;
+import java.util.LinkedList;
 
-// 게임 맵 최단거리 :
+
+/*
+ * 힌트
+ * 1. BFS로 문제 풀이
+ * 2. 상하좌우 이동에 따른 인덱스 변경을 위해 배열을 선언해서 활용해보기
+ *
+ */
+
+// 게임 맵 최단거리 : https://school.programmers.co.kr/learn/courses/30/lessons/1844
 public class GameMinRoot {
 
-  /* 성공 코드 https://velog.io/@taekkim/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B2%8C%EC%9E%84-%EB%A7%B5-%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC
+  /* <BFS 활용 코드>
    *
-   * 힌트
-     * 1. BFS로 문제 풀이
-     * 2. 상하좌우 이동에 따른 인덱스 변경을 위해 배열을 선언해서 활용해보기
+   * 상하좌우 위치를 탐색 방법
+   * 2중 배열에 상,하,좌,우 이동시 변경되는 인덱스 차이를 따로 저장하고 루프를 통해 검증하도록 구현
+   * 예외상황
+   * 블럭값이 0인 경우, 큐 추가 제외
+   * visits = true 인 경우 큐 추가 제외
    *
+   * block count는 어떻게
+   * 1. 큐에 값이 추가 될때만 +1씩 한다 (X) -> 결국 다른 루트의 큐도 count에 포함된다.
+   * 2. 큐에 저장되는 int 배열에 count 값을 추가 (O)
    */
+
+  // 상,좌,하,우 순으로
+  int[][] moveIndexs = new int[][]{{-1,0}, {0,-1}, {1,0}, {0,1}};
+  boolean[][] visits;
+  int m,n,answer;
 
   public int solution(int[][] maps) {
 
+    visits = new boolean[maps.length][maps[0].length];
+    LinkedList<int[]> queue = new LinkedList<>(); // 큐 활용
 
-    return 0;
+    // 최대 인덱스값 생성
+    m = maps.length-1;
+    n = maps[m].length-1;
+
+    answer = Integer.MAX_VALUE;
+
+    // 0,0 부터 큐에 추가하고 시작한다.
+    int[] startIndex = new int[]{0, 0, 1};
+    queue.add(startIndex);
+
+    // 큐가 비어있을 때 까지 루프
+    while(!queue.isEmpty()) {
+
+      // 현재 위치 정보 가져오기
+      int[] currentIndex = queue.poll();
+
+      // 현재 위치가 최종 도착 지점인 경우
+      if (currentIndex[0] == m && currentIndex[1] == n) {
+        // 블럭 수가 현재 answer 보다 작다면 변경 후 루프 종료 -> 가장 먼저 도착한 결과값
+        if (answer > currentIndex[2]) {
+          answer = currentIndex[2];
+        }
+        break;
+      }
+
+      // 현재 위치를 체크된 블럭으로 변경
+      visits[currentIndex[0]][currentIndex[1]] = true;
+
+      // 상,좌,하,우 순으로 비교 진향
+      for (int[] moveIndex : moveIndexs) {
+        int newM = currentIndex[0] + moveIndex[0];
+        int newN = currentIndex[1] + moveIndex[1];
+
+        // 인덱스 범위를 벗어나는 경우 제외
+        if (newM >= 0 && newM <= m && newN >= 0 && newN <= n) {
+          // 0이 아니고 지나온 길이 아닌 위치인 경우
+          if (maps[newM][newN] != 0 && !visits[newM][newN]) {
+
+            // 이동 가능한 위치 정보 생성
+            int[] newIndex = new int[]{newM, newN, currentIndex[2] + 1};
+
+            // 이동 가능한 위치인 경우 추가
+            queue.add(newIndex);
+          }
+        }
+
+      }
+
+    }
+
+    // 최종 도착 지점에 도달하지 못한 경우
+    if (answer == Integer.MAX_VALUE) {
+      answer = -1;
+    }
+
+    return answer;
   }
-
 
 //--------------------------------------------------------------------------------------------------
 
@@ -28,6 +103,7 @@ public class GameMinRoot {
    * 2. 상하좌우 이동에 따른 인덱스 위치 이동을 반복적인 코드로 작성해 비효율적으로 동작
    */
 
+/*
   int x,y;
   int[][] newMaps;
   boolean[][] visits;
@@ -101,5 +177,6 @@ public class GameMinRoot {
 
     }
   }
+ */
 
 }
