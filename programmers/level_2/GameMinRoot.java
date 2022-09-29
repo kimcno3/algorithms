@@ -5,7 +5,7 @@ import java.util.LinkedList;
 
 
 /*
- * 힌트
+ * 힌트 : https://velog.io/@davidko/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B2%8C%EC%9E%84-%EB%A7%B5-%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%ACjava
  * 1. BFS로 문제 풀이
  * 2. 상하좌우 이동에 따른 인덱스 변경을 위해 배열을 선언해서 활용해보기
  *
