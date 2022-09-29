@@ -62,8 +62,8 @@ public class GameMinRoot {
         break;
       }
 
-      // 현재 위치를 체크된 블럭으로 변경
-      visits[currentIndex[0]][currentIndex[1]] = true;
+      // 현재 위치를 체크된 블럭으로 변경 -> 효율성 테스트 실패 원인
+      // visits[currentIndex[0]][currentIndex[1]] = true;
 
       // 상,좌,하,우 순으로 비교 진향
       for (int[] moveIndex : moveIndexs) {
@@ -74,6 +74,9 @@ public class GameMinRoot {
         if (newM >= 0 && newM <= m && newN >= 0 && newN <= n) {
           // 0이 아니고 지나온 길이 아닌 위치인 경우
           if (maps[newM][newN] != 0 && !visits[newM][newN]) {
+
+            // 현재 위치를 체크된 블럭으로 변경 -> 효율성 테스트 실패 원인
+            visits[newM][newN] = true;
 
             // 이동 가능한 위치 정보 생성
             int[] newIndex = new int[]{newM, newN, currentIndex[2] + 1};
