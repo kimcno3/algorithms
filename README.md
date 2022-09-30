@@ -88,6 +88,7 @@
 
 ### 탐욕법
 - [**[JAVA]조이스틱(탐욕법)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/JoyStick.java)
+- [**[JAVA]구명보트(탐욕법)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/LifeBoat.java)
 
 ### 완전 탐색
 - [**[JAVA]소수 찾기(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FindPrimeNumber.java)
