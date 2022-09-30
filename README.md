@@ -106,6 +106,7 @@
 - [**[JAVA]JadenCase 문자열 만들기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/JadenCase.java)
 - [**[JAVA]이진 변환 반복하기(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/BinaryRepeat.java)
 - [**[JAVA]최소값 만들기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MakeMin.java)
+- [**[JAVA]k진수에서 소수 개수 구하기(수학)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/PrimeCountWithK.java)
 
 ### F-Lab 코딩 테스트 문제
 - [**[JAVA]순위 검색(해시, 정렬, 이진 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RankSearch.java)
