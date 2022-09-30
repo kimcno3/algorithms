@@ -82,7 +82,7 @@
 - [**[JAVA]타겟 넘버(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TargetNumber.java)
 - [**[JAVA]괄 변환(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ChangeBracket.java)
 
-## BFS
+### BFS
 - [**[JAVA]게임 맵 최단거리(BFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/GameMinRoot.java)
 
 
@@ -113,6 +113,11 @@
 ## Weekly Challenge
 - [**[Javascript]부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/moneyCalculator.md)
 - [**[Javascript]모음사전**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/vowelsDictionary.md)
+
+## Level 3
+### DFS/BFS
+- [**[JAVA]단어 변환(DFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/WordChange.java)
+
 
 ## 코딩테스트 고득점 kit
 ### 정렬
