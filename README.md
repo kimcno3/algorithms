@@ -78,13 +78,15 @@
 - [**[JAVA]영어 끝말잇기(해쉬/배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/EndToEnd.java)
 - [**[JAVA]위장(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Camouflage.java)
 
+#### F-Lab 코딩 테스트 문제
+- [**[JAVA]순위 검색(해시, 정렬, 이진 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RankSearch.java)
+
 ### 재귀
 - [**[JAVA]타겟 넘버(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TargetNumber.java)
 - [**[JAVA]괄 변환(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ChangeBracket.java)
 
 ### BFS
 - [**[JAVA]게임 맵 최단거리(BFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/GameMinRoot.java)
-
 
 ### 탐욕법
 - [**[JAVA]조이스틱(탐욕법)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/JoyStick.java)
@@ -109,17 +111,18 @@
 - [**[JAVA]최소값 만들기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MakeMin.java)
 - [**[JAVA]k진수에서 소수 개수 구하기(수학)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/PrimeCountWithK.java)
 
-### F-Lab 코딩 테스트 문제
-- [**[JAVA]순위 검색(해시, 정렬, 이진 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RankSearch.java)
-
-## Weekly Challenge
-- [**[Javascript]부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/moneyCalculator.md)
-- [**[Javascript]모음사전**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/vowelsDictionary.md)
-
 ## Level 3
 ### DFS/BFS
 - [**[JAVA]단어 변환(DFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/WordChange.java)
 
+## Dev-Matching 2022 코딩 테스트
+- [**[JAVA]문제1(문자열 탐색) / 만점**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMathching/Solution1.java)
+- [**[JAVA]문제2() / 미작성**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMathching/Solution2.java)
+- [**[JAVA]문제3(DP) / 시간초과**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMathching/Solution3.java)
+
+## Weekly Challenge
+- [**[Javascript]부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/moneyCalculator.md)
+- [**[Javascript]모음사전**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/vowelsDictionary.md)
 
 ## 코딩테스트 고득점 kit
 ### 정렬
