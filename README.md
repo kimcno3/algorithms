@@ -116,9 +116,9 @@
 - [**[JAVA]단어 변환(DFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/WordChange.java)
 
 ## Dev-Matching 2022 코딩 테스트
-- [**[JAVA]문제1(문자열 탐색) / 만점**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMathching/Solution1.java)
-- [**[JAVA]문제2() / 미작성**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMathching/Solution2.java)
-- [**[JAVA]문제3(DP) / 시간초과**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMathching/Solution3.java)
+- [**[JAVA]문제1(문자열 탐색) / 만점**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMatching/Solution1.java)
+- [**[JAVA]문제2() / 미작성**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMatching/Solution2.java)
+- [**[JAVA]문제3(DP) / 시간초과**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMatching/Solution3.java)
 
 ## Weekly Challenge
 - [**[Javascript]부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/moneyCalculator.md)
