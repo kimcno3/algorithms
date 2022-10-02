@@ -112,6 +112,10 @@
 - [**[JAVA]k진수에서 소수 개수 구하기(수학)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/PrimeCountWithK.java)
 
 ## Level 3
+### DP
+- [**[JAVA]등굣길(DP)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/GoToSchool.java)
+
+
 ### DFS/BFS
 - [**[JAVA]단어 변환(DFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/WordChange.java)
 
