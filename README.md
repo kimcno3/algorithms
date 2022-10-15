@@ -71,6 +71,7 @@
 - [**[JAVA]올바른 괄호(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/CorrectBracket.java)
 - [**[JAVA]다리를 지나는 트럭(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TruckPassingBridge.java)
 - [**[JAVA]괄호 회전하기(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/BracketRotation.java)
+- [**[JAVA]두 큐 합 같게 만들기(큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/SameSumQueue.java)
 
 ### 해시
 - [**[JAVA]전화번호 목록(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/PhoneNumberList.java)
