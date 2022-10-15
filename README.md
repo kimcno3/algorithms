@@ -70,6 +70,7 @@
 - [**[JAVA]프렌즈 4블럭(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Friend4Block.java)
 - [**[JAVA]올바른 괄호(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/CorrectBracket.java)
 - [**[JAVA]다리를 지나는 트럭(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TruckPassingBridge.java)
+- [**[JAVA]괄호 회전하기(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/BracketRotation.java)
 
 ### 해시
 - [**[JAVA]전화번호 목록(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/PhoneNumberList.java)
