@@ -79,6 +79,7 @@
 - [**[JAVA]메뉴 리뉴얼(문자열, 해시, 재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MenuRenewal.java)
 - [**[JAVA]영어 끝말잇기(해쉬/배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/EndToEnd.java)
 - [**[JAVA]위장(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Camouflage.java)
+- [**[JAVA]주차 요금 계산하기(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ParkingFee.java)
 
 #### F-Lab 코딩 테스트 문제
 - [**[JAVA]순위 검색(해시, 정렬, 이진 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RankSearch.java)
