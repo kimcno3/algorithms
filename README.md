@@ -57,6 +57,7 @@
 - [**[JAVA]다트게임(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/DartGame.java)
 - [**[JAVA]같은 숫자는 싫어(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/HateSameNumber.java)
 - [**[JAVA]최소 직사각형(완전탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/MinRectangle.java)
+- [**[JAVA]평균 구하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/Average.java)
 
 ## Level 2
 
