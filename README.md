@@ -117,6 +117,7 @@
 - [**[JAVA]k진수에서 소수 개수 구하기(수학)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/PrimeCountWithK.java)
 - [**[JAVA]예상 대진표(반복문)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ExpectedTable.java)
 - [**[JAVA]다음 큰 숫자(반복문)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/NextBiggerNumber.java)
+- [**[JAVA]점프와 순간 이동**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/JumpAndTeleportation.java)
 
 ## Level 3
 ### DP
