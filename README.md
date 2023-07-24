@@ -74,6 +74,7 @@
 - [**[JAVA]다리를 지나는 트럭(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TruckPassingBridge.java)
 - [**[JAVA]괄호 회전하기(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/BracketRotation.java)
 - [**[JAVA]두 큐 합 같게 만들기(큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/SameSumQueue.java)
+- [**[JAVA]연속 부분 수열 합의 개수(큐, Set)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/연속부분수열합의개수.java)
 
 ### 해시
 - [**[JAVA]전화번호 목록(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/PhoneNumberList.java)
