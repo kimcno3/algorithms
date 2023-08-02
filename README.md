@@ -17,6 +17,7 @@
 - [**[JAVA]2578 : 빙고**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/implementationAndSimulation/No2578/Main.java)
 - [**[JAVA]20546 : 기적의 매매법**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/implementationAndSimulation/No20546/Main.java)
 - [**[JAVA]14501 : 퇴사**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/implementationAndSimulation/No14501/Main.java)
+- [**[JAVA]14501 : 스타트와 링크**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/implementationAndSimulation/No14889/Main.java)
 
 ## 재귀함수
 - [**[JAVA]10870 : 피보나치 수열**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_10870.java)
