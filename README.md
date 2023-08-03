@@ -19,6 +19,7 @@
 - [**[JAVA]14501 : 퇴사**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/implementationAndSimulation/No14501/Main.java)
 - [**[JAVA]14889 : 스타트와 링크**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/implementationAndSimulation/No14889/Main.java)
 - [**[JAVA]14888 : 연산자 끼워넣기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/implementationAndSimulation/No14888/Main.java)
+- [**[JAVA]14891 : 톱니바퀴**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/implementationAndSimulation/No14891/Main.java)
 
 ## 재귀함수
 - [**[JAVA]10870 : 피보나치 수열**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_10870.java)
