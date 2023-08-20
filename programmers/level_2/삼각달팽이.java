@@ -5,9 +5,6 @@ public class 삼각달팽이 {
 
     /**
      * 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/68645
-     *
-     * 수정해볼 내용
-     * 1. 방향마다 조건이 다르다. 이걸 이용해보면 조금 더 단순한 코드가 나올 수 있다.
      */
 
     public int[] solution(int n) {
@@ -19,7 +16,7 @@ public class 삼각달팽이 {
         // 1. 채워넣을 배열을 생성한다.
         int[][] arr = new int[n][n];
 
-        // 2. 세가지 방향을 정한다.(순서대로 아래, 오른쪽, 왼쪽 위 대각선)
+        // 2. 세가지 방향을 정한다.(순서대로 아래, 오른쪽, 왼쪽 위 대각선) -> dx, dy로 설정해도 좋다.
         // 첫 시작은 아래쪽부터 시작
         int[][] directions = new int[][]{{1, 0}, {0, 1}, {-1, -1}};
         int currentDirection = 0;
@@ -39,8 +36,9 @@ public class 삼각달팽이 {
             // 1) x, y 값이 배열을 넘어가는 경우
             // 2) 다음에 이동할 위치가 이미 지나온 자리인 경우
             if (expectNextPoint[0] >= n || expectNextPoint[1] >= n || arr[expectNextPoint[0]][expectNextPoint[1]] != 0) {
-                if (currentDirection == 2) currentDirection = 0;
-                else currentDirection += 1;
+                // if (currentDirection == 2) currentDirection = 0;
+                // else currentDirection += 1;
+                currentDirection = (currentDirection + 1) % 3;
             }
 
             // 4-3. 변경된 방향에 맞게 다음 이동 위치 새로 지정
