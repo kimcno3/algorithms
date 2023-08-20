@@ -55,17 +55,17 @@
 13. [**[JAVA]평균 구하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/Average.java)
 
 ### 문자열 탐색
-- [**[Javascript]신규 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/new_id/newId.md)
-- [**[JAVA]신규 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/new_id/newId.java)
-- [**[JAVA]숫자 문자열과 영단어(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/NumberStringAndEnglish.java)
-- [**[JAVA]다트게임(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/DartGame.java)
+1. [**[Javascript]신규 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/new_id/newId.md)
+2. [**[JAVA]신규 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/new_id/newId.java)
+3. [**[JAVA]숫자 문자열과 영단어(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/NumberStringAndEnglish.java)
+4. [**[JAVA]다트게임(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/DartGame.java)
 
 ### 스택 / 큐
-- [**[Javascript]크레인 인형뽑기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/clawCraneGame.md)
-- [**[JAVA]같은 숫자는 싫어(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/HateSameNumber.java)
+1. [**[Javascript]크레인 인형뽑기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/clawCraneGame.md)
+2. [**[JAVA]같은 숫자는 싫어(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/HateSameNumber.java)
 
 ### 완전 탐색
-- [**[JAVA]최소 직사각형(완전탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/MinRectangle.java)
+1. [**[JAVA]최소 직사각형(완전탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/MinRectangle.java)
 
 ### 기타
 1. [**[Javascript]서울에서 김서방찾기**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/findKim.md)
@@ -176,23 +176,23 @@
 
 # :pushpin: 인프런
 ## 쉽고 자연스럽게 배워보는 Javascript 입문 by 호눅스님
-- [**[Javascript]소수찾기**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/findPirmeNumber.md)
-- [**[Javascript]구구단**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/gugudan.md)
-- [**[Javascript]계산기**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/calculator.md)
-- [**[Javascript]단어퍼즐**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/wordsPuzzle.md)
+1. [**[Javascript]소수찾기**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/findPirmeNumber.md)
+2. [**[Javascript]구구단**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/gugudan.md)
+3. [**[Javascript]계산기**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/calculator.md)
+4. [**[Javascript]단어퍼즐**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/wordsPuzzle.md)
 
 ## 자바스크립트 알고리즘 문제풀이 by 김태원님
-- [**[Javascript]섹션1 : 기초**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section1.md)
-- [**[Javascript]섹션2 : 1,2차 배열 탐색**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section2.md)
-- [**[Javascript]섹션3 : 문자열 탐색**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section3.md)
-- [**[Javascript]섹션4 : 완전탐색(블루투포스)**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section4.md)
-- [**[Javascript]섹션5 : 투포인터, 윈도우슬라이딩, 해쉬**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section5.md)
-- [**[Javascript]섹션6 : 스택, 큐**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section6.md)
-- [**[Javascript]섹션7 : 정렬, 그리디, 결정 알고리즘**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section7.md)
+1. [**[Javascript]섹션1 : 기초**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section1.md)
+2. [**[Javascript]섹션2 : 1,2차 배열 탐색**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section2.md)
+3. [**[Javascript]섹션3 : 문자열 탐색**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section3.md)
+4. [**[Javascript]섹션4 : 완전탐색(블루투포스)**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section4.md)
+5. [**[Javascript]섹션5 : 투포인터, 윈도우슬라이딩, 해쉬**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section5.md)
+6. [**[Javascript]섹션6 : 스택, 큐**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section6.md)
+7. [**[Javascript]섹션7 : 정렬, 그리디, 결정 알고리즘**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section7.md)
 
 <br>
 
 # :pushpin: 기타
 ## 프로그램 구현
-- [**[Javascript]숫자야구(구현 설명)**](https://github.com/code-squad/test-item-pool/blob/master/level2-common/level2.md)
-- [**[Javascript]숫자야구(미완성 코드)**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/numberBaseball.html)
+1. [**[Javascript]숫자야구(구현 설명)**](https://github.com/code-squad/test-item-pool/blob/master/level2-common/level2.md)
+2. [**[Javascript]숫자야구(미완성 코드)**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/numberBaseball.html)
