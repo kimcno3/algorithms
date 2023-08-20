@@ -5,6 +5,9 @@ public class 삼각달팽이 {
 
     /**
      * 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/68645
+     *
+     * 수정해볼 내용
+     * 1. 방향마다 조건이 다르다. 이걸 이용해보면 조금 더 단순한 코드가 나올 수 있다.
      */
 
     public int[] solution(int n) {
