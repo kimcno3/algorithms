@@ -121,6 +121,7 @@
 1. [**[JAVA]타겟 넘버(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TargetNumber.java)
 2. [**[JAVA]괄 변환(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ChangeBracket.java)
 3. [**[JAVA]피보나치 수(재귀, DP)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FibonacciNumbers.java)
+4. [**[JAVA]쿼드 압축 개수 세시(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/쿼드압축개수세기.java)
 
 ### BFS
 1. [**[JAVA]게임 맵 최단거리(BFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/GameMinRoot.java)
