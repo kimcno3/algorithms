@@ -1,7 +1,33 @@
 package programmers.level_2;
 
 // 이진변환 반복하기 : https://school.programmers.co.kr/learn/courses/30/lessons/70129
+
 public class BinaryRepeat {
+
+  public int[] solutionV2(String s) {
+    // 반복 회수
+    int cycleCount = 0;
+    // 전체 0 개수
+    int totalZeroCount = 0;
+    // 1만 남을때 까지
+    while(!s.equals("1")) {
+      // 루프 별 0의 개수
+      int zeroCount = 0;
+      // 0의 개수 체크
+      for (char ch : s.toCharArray()) {
+        if (ch == '0') zeroCount++;
+      }
+      // SB를 사용하지 않는다면? 이전 s의 길이에서 0의 개수를 빼주면 된다.
+      s = Integer.toBinaryString(s.length() - zeroCount);
+      // 전체 0 개수 추가
+      totalZeroCount += zeroCount;
+      // 반복 횟수 추가
+      cycleCount++;
+
+    }
+
+    return new int[]{cycleCount, totalZeroCount};
+  }
 
   public int[] solution(String s) {
 
