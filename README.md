@@ -152,6 +152,9 @@
 9. [**[JAVA]N^2 배열 자르기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/N제곱배열자르기.java)
 
 ## Level 3
+### 재귀
+1. [**[JAVA]하노이의 탑(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/하노이의탑.java)
+
 ### DP
 1. [**[JAVA]등굣길(DP)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/GoToSchool.java)
 
