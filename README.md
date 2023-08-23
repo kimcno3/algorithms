@@ -60,6 +60,7 @@
 3. [**[JAVA]숫자 문자열과 영단어(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/NumberStringAndEnglish.java)
 4. [**[JAVA]다트게임(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/DartGame.java)
 4. [**[JAVA]시저 암호(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/시저암호.java)
+5. [**[JAVA]이상한 문자 만들기(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/이상한문자만들기.java)
 
 ### 스택 / 큐
 1. [**[Javascript]크레인 인형뽑기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/clawCraneGame.md)
