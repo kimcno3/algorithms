@@ -83,8 +83,9 @@
 3. [**[JAVA]JadenCase 문자열 만들기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/JadenCase.java)
 4. [**[JAVA]최소값 만들기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MakeMin.java)
 5. [**[JAVA]교점에 별 만들기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/교점에별만들기.java)
-5. [**[JAVA]삼각 달팽이(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/삼각달팽이.java)
-5. [**[JAVA]거리두기 확인하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/거리두기확인하기.java)
+6. [**[JAVA]삼각 달팽이(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/삼각달팽이.java)
+7. [**[JAVA]거리두기 확인하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/거리두기확인하기.java)
+8. [**[JAVA]행렬의 곱셈(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/행렬의곱셈.java)
 
 ### 문자열
 1. [**[JAVA]문자열 압축(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ReductionString.java)
