@@ -154,6 +154,10 @@
 9. [**[JAVA]N^2 배열 자르기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/N제곱배열자르기.java)
 
 ## Level 3
+
+### 완전탐색
+1. [**[JAVA]불량 사용자(완전탐색, DFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/불량사용자.java)
+
 ### 재귀
 1. [**[JAVA]하노이의 탑(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/하노이의탑.java)
 
