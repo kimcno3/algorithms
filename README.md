@@ -69,6 +69,9 @@
 ### 완전 탐색
 1. [**[JAVA]최소 직사각형(완전탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/MinRectangle.java)
 
+### 정렬
+1. [**[JAVA]K번째수**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/K번째수.java)
+
 ### 기타
 1. [**[Javascript]서울에서 김서방찾기**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/findKim.md)
 2. [**[Javascript]가운데 글자 가져오기**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/midString.md)
