@@ -71,6 +71,7 @@
 
 ### 정렬
 1. [**[JAVA]K번째수**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/K번째수.java)
+1. [**[JAVA]문자열 내림차순으로 배치하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/문자열내림차순으로배치하기.java)
 
 ### 기타
 1. [**[Javascript]서울에서 김서방찾기**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/findKim.md)
