@@ -99,6 +99,7 @@
 ### 정렬
 1. [**[JAVA]가장 큰 수(정렬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/BiggestNumber.java)
 2. [**[JAVA]귤 고르지(정렬, 자료구조)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/귤고르기.java)
+2. [**[JAVA]H-Index**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/H_Index.java)
 
 ### 스택/큐
 1. [**[JAVA]프린터(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Printer.java)
