@@ -59,8 +59,8 @@
 2. [**[JAVA]신규 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/new_id/newId.java)
 3. [**[JAVA]숫자 문자열과 영단어(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/NumberStringAndEnglish.java)
 4. [**[JAVA]다트게임(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/DartGame.java)
-4. [**[JAVA]시저 암호(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/시저암호.java)
-5. [**[JAVA]이상한 문자 만들기(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/이상한문자만들기.java)
+5. [**[JAVA]시저 암호(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/시저암호.java)
+6. [**[JAVA]이상한 문자 만들기(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/이상한문자만들기.java)
 
 ### 스택 / 큐
 1. [**[Javascript]크레인 인형뽑기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/clawCraneGame.md)
@@ -71,7 +71,7 @@
 
 ### 정렬
 1. [**[JAVA]K번째수**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/K번째수.java)
-1. [**[JAVA]문자열 내림차순으로 배치하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/문자열내림차순으로배치하기.java)
+2. [**[JAVA]문자열 내림차순으로 배치하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/문자열내림차순으로배치하기.java)
 
 ### 기타
 1. [**[Javascript]서울에서 김서방찾기**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/findKim.md)
@@ -100,7 +100,8 @@
 ### 정렬
 1. [**[JAVA]가장 큰 수(정렬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/BiggestNumber.java)
 2. [**[JAVA]귤 고르지(정렬, 자료구조)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/귤고르기.java)
-2. [**[JAVA]H-Index**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/H_Index.java)
+3. [**[JAVA]H-Index**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/H_Index.java)
+4. [**[JAVA]메뉴 리뉴얼(문자열, 재귀, 해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/메뉴리뉴얼.java)
 
 ### 스택/큐
 1. [**[JAVA]프린터(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Printer.java)
@@ -116,18 +117,17 @@
 ### 해시
 1. [**[JAVA]전화번호 목록(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/PhoneNumberList.java)
 2. [**[JAVA]뉴스 클러스터링(문자열, 해시)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/NewsClustering.java)
-3. [**[JAVA]메뉴 리뉴얼(문자열, 해시, 재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MenuRenewal.java)
-4. [**[JAVA]영어 끝말잇기(해쉬/배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/EndToEnd.java)
-5. [**[JAVA]위장(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Camouflage.java)
-6. [**[JAVA]주차 요금 계산하기(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ParkingFee.java)
-7. [**[JAVA]순위 검색(해시, 정렬, 이진 탐색)** : F Lab 코딩 테스트 문제](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RankSearch.java)
+3. [**[JAVA]영어 끝말잇기(해쉬/배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/EndToEnd.java)
+4. [**[JAVA]위장(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Camouflage.java)
+5. [**[JAVA]주차 요금 계산하기(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ParkingFee.java)
+6. [**[JAVA]순위 검색(해시, 정렬, 이진 탐색)** : F Lab 코딩 테스트 문제](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RankSearch.java)
 
 ### 재귀
 1. [**[JAVA]타겟 넘버(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TargetNumber.java)
 2. [**[JAVA]괄 변환(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ChangeBracket.java)
 3. [**[JAVA]피보나치 수(재귀, DP)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FibonacciNumbers.java)
 4. [**[JAVA]쿼드 압축 개수 세시(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/쿼드압축개수세기.java)
-4. [**[JAVA]모음사전(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/모음사전.java)
+5. [**[JAVA]모음사전(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/모음사전.java)
 
 ### BFS
 1. [**[JAVA]게임 맵 최단거리(BFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/GameMinRoot.java)
