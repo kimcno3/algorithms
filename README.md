@@ -53,6 +53,7 @@
 11. [**[JAVA]두개 뽑아서 더하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/PlusTwoNumber.java)
 12. [**[JAVA]비밀지도(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/SecretMap.java)
 13. [**[JAVA]평균 구하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/Average.java)
+13. [**[JAVA]바탕화면 정리(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/바탕화면정리.java)
 
 ### 문자열 탐색
 1. [**[Javascript]신규 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/new_id/newId.md)
