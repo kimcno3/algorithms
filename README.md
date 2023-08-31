@@ -141,6 +141,7 @@
 1. [**[JAVA]소수 찾기(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FindPrimeNumber.java)
 2. [**[JAVA]카펫(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Carpet.java)
 3. [**[JAVA]수식 최대화(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/수식최대화.java)
+3. [**[JAVA]피로도(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/피로도.java)
 
 ### 힙
 1. [**[JAVA]더 맵게(힙)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MoreSpicy.java)
