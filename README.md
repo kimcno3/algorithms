@@ -53,7 +53,7 @@
 11. [**[JAVA]두개 뽑아서 더하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/PlusTwoNumber.java)
 12. [**[JAVA]비밀지도(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/SecretMap.java)
 13. [**[JAVA]평균 구하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/Average.java)
-13. [**[JAVA]바탕화면 정리(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/바탕화면정리.java)
+14. [**[JAVA]바탕화면 정리(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/바탕화면정리.java)
 ### Level 2
 1. [**[JAVA]행렬 테두리 회전하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/SpinRowColumn.java)
 2. [**[JAVA]최대값과 최소값(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MaxAndMin.java)
@@ -99,6 +99,8 @@
 2. [**[JAVA]카펫(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Carpet.java)
 3. [**[JAVA]수식 최대화(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/수식최대화.java)
 4. [**[JAVA]피로도(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/피로도.java)
+### Level 3
+1. [**[JAVA]불량 사용자(완전탐색, DFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/불량사용자.java)
 
 ## 정렬
 ### Level 1
@@ -126,6 +128,12 @@
 3. [**[JAVA]피보나치 수(재귀, DP)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FibonacciNumbers.java)
 4. [**[JAVA]쿼드 압축 개수 세시(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/쿼드압축개수세기.java)
 5. [**[JAVA]모음사전(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/모음사전.java)
+### Level 3
+1. [**[JAVA]하노이의 탑(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/하노이의탑.java)
+
+## DFS
+### Level 3
+1. [**[JAVA]단어 변환(DFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/WordChange.java)
 
 ## BFS
 ### Level 2
@@ -141,7 +149,8 @@
 1. [**[JAVA]멀리뛰기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/멀리뛰기.java)
 
 ### Level 3
-1. [**[JAVA]정수 삼각형**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/정수삼각형.java)
+1. [**[JAVA]등굣길(DP)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/GoToSchool.java)
+2. [**[JAVA]정수 삼각형**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/정수삼각형.java)
 
 ## 힙
 ### Level 2
@@ -166,32 +175,14 @@
 8. [**[JAVA]N최소 공배수(유클리드 호제법)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/NLcm.java)
 9. [**[JAVA]N^2 배열 자르기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/N제곱배열자르기.java)
 
-## Level 3
-> Level 3 부터는 두개 이상의 개념이 혼합되는 경우가 있어 따로 분류했습니다.
-
-### 완전탐색
-1. [**[JAVA]불량 사용자(완전탐색, DFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/불량사용자.java)
-
-### 재귀
-1. [**[JAVA]하노이의 탑(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/하노이의탑.java)
-
-### DP
-1. [**[JAVA]등굣길(DP)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/GoToSchool.java)
-
-### DFS/BFS
-1. [**[JAVA]단어 변환(DFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/WordChange.java)
-
-
 ## Dev-Matching 2022 코딩 테스트
 1. [**[JAVA]문제1(문자열 탐색) / 만점**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMatching/Solution1.java)
 2. [**[JAVA]문제2() / 미작성**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMatching/Solution2.java)
 3. [**[JAVA]문제3(DP) / 시간초과**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMatching/Solution3.java)
 
-
 ## Weekly Challenge
 1. [**[Javascript]부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/moneyCalculator.md)
 2. [**[Javascript]모음사전**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/vowelsDictionary.md)
-
 
 ## 코딩테스트 고득점 kit
 ### 정렬
