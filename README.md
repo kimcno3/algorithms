@@ -100,7 +100,6 @@
 3. [**[JAVA]수식 최대화(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/수식최대화.java)
 4. [**[JAVA]피로도(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/피로도.java)
 
-
 ## 정렬
 ### Level 1
 1. [**[JAVA]K번째수**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/K번째수.java)
@@ -138,10 +137,14 @@
 2. [**[JAVA]구명보트(탐욕법)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/LifeBoat.java)
 
 ## 동적계획법(DP, Dynamic Programming)
+### Level 2
 1. [**[JAVA]멀리뛰기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/멀리뛰기.java)
-2. [**[JAVA]정수 삼각형**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/정수삼각형.java)
+
+### Level 3
+1. [**[JAVA]정수 삼각형**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/정수삼각형.java)
 
 ## 힙
+### Level 2
 1. [**[JAVA]더 맵게(힙)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MoreSpicy.java)
 
 ## 기타
