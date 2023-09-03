@@ -38,8 +38,8 @@
 
 # :pushpin: 프로그래머스
 
-## Level 1
-### 배열
+## 배열
+### Level 1
 1. [**[JAVA]없는 숫자 더하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/PlusNotExistNumber.java)
 2. [**[JAVA]음양 더하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/InnerPlus.java)
 3. [**[JAVA]내적(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/PlusDarkBright.java)
@@ -54,37 +54,7 @@
 12. [**[JAVA]비밀지도(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/SecretMap.java)
 13. [**[JAVA]평균 구하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/Average.java)
 13. [**[JAVA]바탕화면 정리(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/바탕화면정리.java)
-
-### 문자열 탐색
-1. [**[Javascript]신규 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/new_id/newId.md)
-2. [**[JAVA]신규 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/new_id/newId.java)
-3. [**[JAVA]숫자 문자열과 영단어(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/NumberStringAndEnglish.java)
-4. [**[JAVA]다트게임(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/DartGame.java)
-5. [**[JAVA]시저 암호(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/시저암호.java)
-6. [**[JAVA]이상한 문자 만들기(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/이상한문자만들기.java)
-
-### 스택 / 큐
-1. [**[Javascript]크레인 인형뽑기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/clawCraneGame.md)
-2. [**[JAVA]같은 숫자는 싫어(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/HateSameNumber.java)
-
-### 완전 탐색
-1. [**[JAVA]최소 직사각형(완전탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/MinRectangle.java)
-
-### 정렬
-1. [**[JAVA]K번째수**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/K번째수.java)
-2. [**[JAVA]문자열 내림차순으로 배치하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/문자열내림차순으로배치하기.java)
-
-### 기타
-1. [**[Javascript]서울에서 김서방찾기**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/findKim.md)
-2. [**[Javascript]가운데 글자 가져오기**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/midString.md)
-3. [**[Javascript]수박수박수박수박수박수?**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/waterMelon.md)
-4. [**[JAVA]신고 결과 받기(자료구조)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/ReportId.java)
-5. [**[JAVA]키패드 누르기(이중 루프)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/keyPad.java)
-6. [**[JAVA]약수의 개수와 덧셈(약수)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/CalcDivisor.java)
-
-## Level 2
-
-### 배열
+### Level 2
 1. [**[JAVA]행렬 테두리 회전하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/SpinRowColumn.java)
 2. [**[JAVA]최대값과 최소값(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MaxAndMin.java)
 3. [**[JAVA]JadenCase 문자열 만들기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/JadenCase.java)
@@ -94,17 +64,23 @@
 7. [**[JAVA]거리두기 확인하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/거리두기확인하기.java)
 8. [**[JAVA]행렬의 곱셈(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/행렬의곱셈.java)
 
-### 문자열
+## 문자열 탐색
+### Level 1
+1. [**[Javascript]신규 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/new_id/newId.md)
+2. [**[JAVA]신규 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/new_id/newId.java)
+3. [**[JAVA]숫자 문자열과 영단어(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/NumberStringAndEnglish.java)
+4. [**[JAVA]다트게임(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/DartGame.java)
+5. [**[JAVA]시저 암호(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/시저암호.java)
+6. [**[JAVA]이상한 문자 만들기(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/이상한문자만들기.java)
+### Level 2
 1. [**[JAVA]문자열 압축(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ReductionString.java)
 2. [**[JAVA]오픈 채팅방(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/OpenChattingRoom.java)
 
-### 정렬
-1. [**[JAVA]가장 큰 수(정렬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/BiggestNumber.java)
-2. [**[JAVA]귤 고르지(정렬, 자료구조)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/귤고르기.java)
-3. [**[JAVA]H-Index**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/H_Index.java)
-4. [**[JAVA]메뉴 리뉴얼(문자열, 재귀, 해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/메뉴리뉴얼.java)
-
-### 스택/큐
+## 스택 / 큐
+### Level 1
+1. [**[Javascript]크레인 인형뽑기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/clawCraneGame.md)
+2. [**[JAVA]같은 숫자는 싫어(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/HateSameNumber.java)
+### Level 2
 1. [**[JAVA]프린터(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Printer.java)
 2. [**[JAVA]기능개발(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FunctionDev.java)
 3. [**[JAVA]짝지어 제거하기(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RemoveCouple.java)
@@ -115,7 +91,28 @@
 8. [**[JAVA]두 큐 합 같게 만들기(큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/SameSumQueue.java)
 9. [**[JAVA]연속 부분 수열 합의 개수(큐, Set)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/연속부분수열합의개수.java)
 
-### 해시
+## 완전 탐색
+### Level 1
+1. [**[JAVA]최소 직사각형(완전탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/MinRectangle.java)
+### Level 2
+1. [**[JAVA]소수 찾기(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FindPrimeNumber.java)
+2. [**[JAVA]카펫(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Carpet.java)
+3. [**[JAVA]수식 최대화(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/수식최대화.java)
+4. [**[JAVA]피로도(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/피로도.java)
+
+
+## 정렬
+### Level 1
+1. [**[JAVA]K번째수**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/K번째수.java)
+2. [**[JAVA]문자열 내림차순으로 배치하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/문자열내림차순으로배치하기.java)
+### Level 2
+1. [**[JAVA]가장 큰 수(정렬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/BiggestNumber.java)
+2. [**[JAVA]귤 고르지(정렬, 자료구조)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/귤고르기.java)
+3. [**[JAVA]H-Index**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/H_Index.java)
+4. [**[JAVA]메뉴 리뉴얼(문자열, 재귀, 해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/메뉴리뉴얼.java)
+
+## 해시
+### Level 2
 1. [**[JAVA]전화번호 목록(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/PhoneNumberList.java)
 2. [**[JAVA]뉴스 클러스터링(문자열, 해시)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/NewsClustering.java)
 3. [**[JAVA]영어 끝말잇기(해쉬/배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/EndToEnd.java)
@@ -123,34 +120,39 @@
 5. [**[JAVA]주차 요금 계산하기(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ParkingFee.java)
 6. [**[JAVA]순위 검색(해시, 정렬, 이진 탐색)** : F Lab 코딩 테스트 문제](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RankSearch.java)
 
-### 재귀
+## 재귀
+### Level 2
 1. [**[JAVA]타겟 넘버(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TargetNumber.java)
 2. [**[JAVA]괄 변환(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ChangeBracket.java)
 3. [**[JAVA]피보나치 수(재귀, DP)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FibonacciNumbers.java)
 4. [**[JAVA]쿼드 압축 개수 세시(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/쿼드압축개수세기.java)
 5. [**[JAVA]모음사전(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/모음사전.java)
 
-### BFS
+## BFS
+### Level 2
 1. [**[JAVA]게임 맵 최단거리(BFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/GameMinRoot.java)
 
-### 탐욕법
+## 탐욕법(Greedy)
+### Level 2
 1. [**[JAVA]조이스틱(탐욕법)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/JoyStick.java)
 2. [**[JAVA]구명보트(탐욕법)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/LifeBoat.java)
 
-### 완전 탐색
-1. [**[JAVA]소수 찾기(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FindPrimeNumber.java)
-2. [**[JAVA]카펫(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Carpet.java)
-3. [**[JAVA]수식 최대화(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/수식최대화.java)
-3. [**[JAVA]피로도(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/피로도.java)
-
-### 힙
-1. [**[JAVA]더 맵게(힙)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MoreSpicy.java)
-
-### DP
+## 동적계획법(DP, Dynamic Programming)
 1. [**[JAVA]멀리뛰기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/멀리뛰기.java)
 2. [**[JAVA]정수 삼각형**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/정수삼각형.java)
 
-### 기타
+## 힙
+1. [**[JAVA]더 맵게(힙)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MoreSpicy.java)
+
+## 기타
+### Level 1
+1. [**[Javascript]서울에서 김서방찾기**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/findKim.md)
+2. [**[Javascript]가운데 글자 가져오기**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/midString.md)
+3. [**[Javascript]수박수박수박수박수박수?**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/waterMelon.md)
+4. [**[JAVA]신고 결과 받기(자료구조)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/ReportId.java)
+5. [**[JAVA]키패드 누르기(이중 루프)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/keyPad.java)
+6. [**[JAVA]약수의 개수와 덧셈(약수)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/CalcDivisor.java)
+### Level 2
 1. [**[JAVA]124 나라의 숫자**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Country124.java)
 2. [**[JAVA]튜플(리스트)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Tuple.java)
 3. [**[JAVA]이진 변환 반복하기(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/BinaryRepeat.java)
@@ -162,6 +164,7 @@
 9. [**[JAVA]N^2 배열 자르기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/N제곱배열자르기.java)
 
 ## Level 3
+> Level 3 부터는 두개 이상의 개념이 혼합되는 경우가 있어 따로 분류했습니다.
 
 ### 완전탐색
 1. [**[JAVA]불량 사용자(완전탐색, DFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/불량사용자.java)
@@ -172,18 +175,20 @@
 ### DP
 1. [**[JAVA]등굣길(DP)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/GoToSchool.java)
 
-
 ### DFS/BFS
 1. [**[JAVA]단어 변환(DFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/WordChange.java)
+
 
 ## Dev-Matching 2022 코딩 테스트
 1. [**[JAVA]문제1(문자열 탐색) / 만점**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMatching/Solution1.java)
 2. [**[JAVA]문제2() / 미작성**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMatching/Solution2.java)
 3. [**[JAVA]문제3(DP) / 시간초과**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMatching/Solution3.java)
 
+
 ## Weekly Challenge
 1. [**[Javascript]부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/moneyCalculator.md)
 2. [**[Javascript]모음사전**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/vowelsDictionary.md)
+
 
 ## 코딩테스트 고득점 kit
 ### 정렬
