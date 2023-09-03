@@ -148,6 +148,7 @@
 
 ### DP
 1. [**[JAVA]멀리뛰기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/멀리뛰기.java)
+2. [**[JAVA]정수 삼각형**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/정수삼각형.java)
 
 ### 기타
 1. [**[JAVA]124 나라의 숫자**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Country124.java)
