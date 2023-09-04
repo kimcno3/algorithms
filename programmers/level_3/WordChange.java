@@ -8,16 +8,70 @@ import java.util.Queue;
 // 단어 변환 : https://school.programmers.co.kr/learn/courses/30/lessons/43163
 public class WordChange {
 
-  /*
-   * BFS 활용 메소드
-   *
-   * 부족했던 점
-   * DFS로 푸는 것이 더 낫다...?
-   * 테스트 케이스 1번 실패
-   *
+  /** 풀이 V2
+   * 조금 더 추상화해 구현했습니다.
    */
 
-  public int solutionBfs(String begin, String target, String[] words) {
+  public int solutionV2(String begin, String target, String[] words) {
+
+    // 변환할 수 없는 경우에는 0 리턴
+    if (!checkExist(words, target)) return 0;
+
+    int answer = -1;
+    boolean[] visits = new boolean[words.length];
+    // 큐에 들어갈 자료구조 : 현재 변환된 단어의 인덱스, 변환 횟수
+    LinkedList<int[]> queue = new LinkedList<>();
+    queue.add(new int[]{-1, 0});
+    // 큐가 빌 때까지 루프를 돈다.
+    while(!queue.isEmpty()) {
+      // 현재 큐 가져온다.
+      int[] current = queue.pop();
+      // 현재 단어와 변환 횟수를 변수로 만든다.
+      String word = getWord(begin, words, current);
+      int count = current[1];
+      // 만약 현재 단어가 타겟일 경우 종료한다.
+      if (word.equals(target)) return count;
+      // 타겟이 아니라면 루프를 돌면서 전체 단어와 비교한다.
+      for (int i=0; i<words.length; i++) {
+        // 이미 변경된 단어라면 제외
+        if (visits[i]) continue;
+        // 변환이 가능한지 검증
+        if (!checkChange(word, words[i])) continue;
+        // 변환이 가능하다면 방문 처리
+        visits[i] = true;
+        // 큐에 추가
+        queue.add(new int[]{i, count+1});
+      }
+    }
+    return answer;
+  }
+
+  private boolean checkExist(String[] words, String target) {
+    for (String word : words) {
+      if (target.equals(word)) return true;
+    }
+    return false;
+  }
+
+  private String getWord(String begin, String[] words, int[] current) {
+    if (current[0] == -1) return begin;
+    else return words[current[0]];
+  }
+
+  private boolean checkChange(String word, String testWord) {
+    int limit = 0;
+    for (int i=0; i<word.length(); i++) {
+      // 한개 이상 틀리다면 변경이 불가능하다고 판단
+      if (word.charAt(i) != testWord.charAt(i)) limit++;
+    }
+    return limit <= 1;
+  }
+
+  /** 이전 풀이
+   * 동일하게 BFS를 사용했지만 답안 코드를 참고했습니다.
+   **/
+
+  public int solution(String begin, String target, String[] words) {
 
     int answer = 0;
     int length = words.length;

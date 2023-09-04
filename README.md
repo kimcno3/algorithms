@@ -133,12 +133,13 @@
 
 ## DFS
 ### Level 3
-1. [**[JAVA]단어 변환(DFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/WordChange.java)
 1. [**[JAVA]네트워크**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/네트워크.java)
 
 ## BFS
 ### Level 2
 1. [**[JAVA]게임 맵 최단거리(BFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/GameMinRoot.java)
+### Level 3
+1. [**[JAVA]단어 변환**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/WordChange.java)
 
 ## 탐욕법(Greedy)
 ### Level 2
