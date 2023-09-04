@@ -3,12 +3,20 @@ package programmers.level_2;
 // 타겟 넘버 : https://school.programmers.co.kr/learn/courses/30/lessons/43165
 public class TargetNumber {
 
-  public static void main(String[] args) {
-    TargetNumber targetNumber = new TargetNumber();
-    int[] numbers = {1, 1, 1, 1, 1};
-    System.out.println(targetNumber.solution(numbers, 3));
-    int[] numbers2 = {4, 1, 2, 1};
-    System.out.println(targetNumber.solution(numbers2, 4));
+  private int answerV2;
+
+  public int solutionV2(int[] numbers, int target) {
+    recursion(numbers, target, 0, 0);
+    return answerV2;
+  }
+
+  private void recursion(int[] numbers, int target, int index, int sum) {
+    if (index == numbers.length) {
+      if (sum == target) answerV2++;
+      return;
+    }
+    recursion(numbers, target, index + 1, sum + numbers[index]);
+    recursion(numbers, target, index + 1, sum - numbers[index]);
   }
 
   int[] arr;
