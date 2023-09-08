@@ -181,6 +181,7 @@
 7. [**[JAVA]점프와 순간 이동**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/JumpAndTeleportation.java)
 8. [**[JAVA]N최소 공배수(유클리드 호제법)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/NLcm.java)
 9. [**[JAVA]N^2 배열 자르기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/N제곱배열자르기.java)
+9. [**[JAVA]숫자블록(소수, 에라토스테네스의 체)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/숫자블록.java)
 
 ## Dev-Matching 2022 코딩 테스트
 1. [**[JAVA]문제1(문자열 탐색) / 만점**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMatching/Solution1.java)
