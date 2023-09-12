@@ -121,6 +121,9 @@
 5. [**[JAVA]주차 요금 계산하기(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ParkingFee.java)
 6. [**[JAVA]순위 검색(해시, 정렬, 이진 탐색)** : F Lab 코딩 테스트 문제](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RankSearch.java)
 
+### Level 3
+1. [**[JAVA]베스트엘범**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/베스트엘범.java)
+
 ## 재귀
 ### Level 2
 1. [**[JAVA]타겟 넘버(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TargetNumber.java)
