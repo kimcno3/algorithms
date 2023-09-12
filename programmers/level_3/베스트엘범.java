@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 /**
  * 문제 출처 : https://school.programmers.co.kr/learn/courses/30/lessons/42579
 
- * 느낀 점 : 
+ * 느낀 점 :
     * 거의 2시간 넘게 걸린 풀이...
     * 최대한 Stream을 통해 간결한 코드를 작성하는 것을 목표로 구현한 문제
 
@@ -50,7 +50,7 @@ public class 베스트엘범 {
     private static void makeBestAlbum(Map.Entry<String, TreeMap<Integer, Integer>> e, List<Integer> list) {
         List<Integer> collect = e.getValue().entrySet().stream()
                 .sorted((e1, e2) -> e2.getValue() - e1.getValue()) // 플레이 수를 기준으로 노래들을 오름차순 정렬
-                .map(Map.Entry::getKey) // 키값으로만 변경
+                .map(v -> v.getKey()) // 키값으로만 변경
                 .collect(Collectors.toList()); // 리스트로 재생성
 
         if (collect.size() >= 2) list.addAll(collect.subList(0, 2)); // 만약 2개 이상의 노래가 존재한다면 최대 2개까지만 리스트에 추가
