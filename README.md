@@ -152,7 +152,6 @@
 ## 동적계획법(DP, Dynamic Programming)
 ### Level 2
 1. [**[JAVA]멀리뛰기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/멀리뛰기.java)
-
 ### Level 3
 1. [**[JAVA]등굣길(DP)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/GoToSchool.java)
 2. [**[JAVA]정수 삼각형**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/정수삼각형.java)
@@ -162,9 +161,12 @@
 1. [**[JAVA]더 맵게(힙)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MoreSpicy.java)
 
 ## 구현
-### Level 2 스킬트리
+### Level 2
 1. [**[JAVA]스킬트리**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/스킬트리.java)
 
+## 이진탐색
+### Level 3
+1. [**[JAVA]입국심사**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/입국심사.java)
 
 ## 기타
 ### Level 1
