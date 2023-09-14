@@ -37,7 +37,7 @@
 12. [**[JAVA]9663 : N Queen**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_9663.java)
 
 ## Greedy Programming
-1. [**[JAVA]18185 : 라면 사기(small)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_18185/Main.java)
+1. [**[JAVA]18185 : 라면 사기(small)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/greedyProgramming/No_18185/Main.java)
 
 # :pushpin: 프로그래머스
 
