@@ -36,6 +36,9 @@
 11. [**[JAVA]6012 : The Big Dance**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_6012.java)
 12. [**[JAVA]9663 : N Queen**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_9663.java)
 
+## Greedy Programming
+1. [**[JAVA]18185 : 라면 사기(small)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_18185/Main.java)
+
 # :pushpin: 프로그래머스
 
 ## 배열
