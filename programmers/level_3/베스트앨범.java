@@ -20,7 +20,7 @@ import java.util.stream.Collectors;
      * 6. 생성된 collect의 길이에 따라 최대 앞에서 2개까지 순서대로 추가
  */
 
-public class 베스트엘범 {
+public class 베스트앨범 {
 
     public int[] solution(String[] genres, int[] plays) {
         // 자료구조 생성

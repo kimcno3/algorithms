@@ -122,17 +122,17 @@
 3. [**[JAVA]영어 끝말잇기(해쉬/배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/EndToEnd.java)
 4. [**[JAVA]위장(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Camouflage.java)
 5. [**[JAVA]주차 요금 계산하기(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ParkingFee.java)
-6. [**[JAVA]순위 검색(해시, 정렬, 이진 탐색)** : F Lab 코딩 테스트 문제](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RankSearch.java)
+6. [**[JAVA]순위 검색(해시, 정렬, 이진 탐색) : F Lab 코딩 테스트 문제**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RankSearch.java)
 
 ### Level 3
-1. [**[JAVA]베스트엘범**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/베스트엘범.java)
+1. [**[JAVA]베스트앨범**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/베스트앨범.java)
 
 ## 재귀
 ### Level 2
 1. [**[JAVA]타겟 넘버(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TargetNumber.java)
 2. [**[JAVA]괄 변환(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ChangeBracket.java)
 3. [**[JAVA]피보나치 수(재귀, DP)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FibonacciNumbers.java)
-4. [**[JAVA]쿼드 압축 개수 세시(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/쿼드압축개수세기.java)
+4. [**[JAVA]쿼드 압축 개수 세기(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/쿼드압축개수세기.java)
 5. [**[JAVA]모음사전(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/모음사전.java)
 ### Level 3
 1. [**[JAVA]하노이의 탑(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/하노이의탑.java)
@@ -144,7 +144,7 @@
 ## BFS
 ### Level 3
 1. [**[JAVA]게임 맵 최단거리(BFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/GameMinRoot.java)
-[**[JAVA]단어 변환**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/WordChange.java)
+2. [**[JAVA]단어 변환**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/WordChange.java)
 
 ## 탐욕법(Greedy)
 ### Level 2
