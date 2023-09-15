@@ -1,238 +1,205 @@
-# 알고리즘 모음
+# 
+# 백준 & 프로그래머스 문제 풀이 목록
 
-# :pushpin: 백준
-## 문자열
-1. [**[JAVA]11654 : 아스키**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/string/No_11654.java)
-2. [**[JAVA]11720 : 숫자의 합**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/string/No_11720.java)
-3. [**[JAVA]10809 : 알파벳 찾기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/string/No_10809.java)
+프로그래머스의 경우, 푼 문제 목록에 대한 마이그레이션이 필요합니다.
 
-## 자료구조
-1. [**[JAVA]2605 : 줄세우기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_2605.java)
-2. [**[JAVA]10799 : 쇠막대기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_10799.java)
-3. [**[JAVA]1927 : 최소힙**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_1927.java)
-4. [**[JAVA]9093 : 단어 뒤집기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_9093.java)
-5. [**[JAVA]17413 : 단어 뒤집기 2**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/collection/No_17413.java)
-
-## 구현/시뮬레이션
-1. [**[JAVA]2578 : 빙고**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/implementationAndSimulation/No2578/Main.java)
-2. [**[JAVA]20546 : 기적의 매매법**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/implementationAndSimulation/No20546/Main.java)
-3. [**[JAVA]14501 : 퇴사**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/implementationAndSimulation/No14501/Main.java)
-4. [**[JAVA]14889 : 스타트와 링크**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/implementationAndSimulation/No14889/Main.java)
-5. [**[JAVA]14888 : 연산자 끼워넣기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/implementationAndSimulation/No14888/Main.java)
-6. [**[JAVA]14891 : 톱니바퀴**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/implementationAndSimulation/No14891/Main.java)
-7. [**[JAVA]3190 : 뱀**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/implementationAndSimulation/No3190/Main.java)
-
-## 재귀함수
-1. [**[JAVA]10870 : 피보나치 수열**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_10870.java)
-2. [**[JAVA]15650 : N과 M(1)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_15649.java)
-3. [**[JAVA]15650 : N과 M(2)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_15650.java)
-4. [**[JAVA]15651 : N과 M(3)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_15651.java)
-5. [**[JAVA]15652 : N과 M(4)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_15652.java)
-6. [**[JAVA]15652 : N과 M(5)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_15654.java)
-7. [**[JAVA]6603 : 로또**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_6603.java)
-8. [**[JAVA]1991 : 트리 순회**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_1991.java)
-9. [**[JAVA]9934 : 완전 이진 트리**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_9934.java)
-10. [**[JAVA]2630 : 색종이 만들기**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_2630.java)
-11. [**[JAVA]1992 : 쿼드트리**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_1992.java)
-12. [**[JAVA]6012 : The Big Dance**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_6012.java)
-13. [**[JAVA]9663 : N Queen**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/recursion/No_9663.java)
-
-## Greedy Programming
-1. [**[JAVA]18185 : 라면 사기(small)**](https://github.com/kimcno3/algorithms/blob/main/baekjoon/greedyProgramming/No_18185/Main.java)
-
-# :pushpin: 프로그래머스
-
-## 배열
-### Level 1
-1. [**[JAVA]없는 숫자 더하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/PlusNotExistNumber.java)
-2. [**[JAVA]음양 더하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/InnerPlus.java)
-3. [**[JAVA]내적(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/PlusDarkBright.java)
-4. [**[JAVA]소수 만들기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/MakePrimeNumber.java)
-5. [**[JAVA]로또 최저 순위와 최고 순위(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/Lottos.java)
-6. [**[JAVA]체육복(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/TrainingSuit.java)
-7. [**[JAVA]폰켓몬(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/PhoneCatMon.java)
-8. [**[JAVA]실패율(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/FailureRate.java)
-9. [**[JAVA]완주하지 못한 선수(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/Marathon.java)
-10. [**[JAVA]예산(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/Budget.java)
-11. [**[JAVA]두개 뽑아서 더하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/PlusTwoNumber.java)
-12. [**[JAVA]비밀지도(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/SecretMap.java)
-13. [**[JAVA]평균 구하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/Average.java)
-14. [**[JAVA]바탕화면 정리(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/바탕화면정리.java)
-### Level 2
-1. [**[JAVA]행렬 테두리 회전하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/SpinRowColumn.java)
-2. [**[JAVA]최대값과 최소값(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MaxAndMin.java)
-3. [**[JAVA]JadenCase 문자열 만들기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/JadenCase.java)
-4. [**[JAVA]최소값 만들기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MakeMin.java)
-5. [**[JAVA]교점에 별 만들기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/교점에별만들기.java)
-6. [**[JAVA]삼각 달팽이(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/삼각달팽이.java)
-7. [**[JAVA]거리두기 확인하기(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/거리두기확인하기.java)
-8. [**[JAVA]행렬의 곱셈(배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/행렬의곱셈.java)
-
-## 문자열 탐색
-### Level 1
-1. [**[Javascript]신규 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/new_id/newId.md)
-2. [**[JAVA]신규 아이디 추천(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/new_id/newId.java)
-3. [**[JAVA]숫자 문자열과 영단어(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/NumberStringAndEnglish.java)
-4. [**[JAVA]다트게임(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/DartGame.java)
-5. [**[JAVA]시저 암호(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/시저암호.java)
-6. [**[JAVA]이상한 문자 만들기(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/이상한문자만들기.java)
-### Level 2
-1. [**[JAVA]문자열 압축(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ReductionString.java)
-2. [**[JAVA]오픈 채팅방(문자열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/OpenChattingRoom.java)
-
-## 스택 / 큐
-### Level 1
-1. [**[Javascript]크레인 인형뽑기(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/clawCraneGame.md)
-2. [**[JAVA]같은 숫자는 싫어(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/HateSameNumber.java)
-### Level 2
-1. [**[JAVA]프린터(스택)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Printer.java)
-2. [**[JAVA]기능개발(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FunctionDev.java)
-3. [**[JAVA]짝지어 제거하기(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RemoveCouple.java)
-4. [**[JAVA]프렌즈 4블럭(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Friend4Block.java)
-5. [**[JAVA]올바른 괄호(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/CorrectBracket.java)
-6. [**[JAVA]다리를 지나는 트럭(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TruckPassingBridge.java)
-7. [**[JAVA]괄호 회전하기(스택/큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/BracketRotation.java)
-8. [**[JAVA]두 큐 합 같게 만들기(큐)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/SameSumQueue.java)
-9. [**[JAVA]연속 부분 수열 합의 개수(큐, Set)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/연속부분수열합의개수.java)
-
-## 완전 탐색
-### Level 1
-1. [**[JAVA]최소 직사각형(완전탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/MinRectangle.java)
-### Level 2
-1. [**[JAVA]소수 찾기(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FindPrimeNumber.java)
-2. [**[JAVA]카펫(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Carpet.java)
-3. [**[JAVA]수식 최대화(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/수식최대화.java)
-4. [**[JAVA]피로도(전체 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/피로도.java)
-### Level 3
-1. [**[JAVA]불량 사용자(완전탐색, DFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/불량사용자.java)
-
-## 정렬
-### Level 1
-1. [**[JAVA]K번째수**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/K번째수.java)
-2. [**[JAVA]문자열 내림차순으로 배치하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/문자열내림차순으로배치하기.java)
-### Level 2
-1. [**[JAVA]가장 큰 수(정렬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/BiggestNumber.java)
-2. [**[JAVA]귤 고르지(정렬, 자료구조)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/귤고르기.java)
-3. [**[JAVA]H-Index**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/H_Index.java)
-4. [**[JAVA]메뉴 리뉴얼(문자열, 재귀, 해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/메뉴리뉴얼.java)
-
-## 해시
-### Level 2
-1. [**[JAVA]전화번호 목록(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/PhoneNumberList.java)
-2. [**[JAVA]뉴스 클러스터링(문자열, 해시)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/NewsClustering.java)
-3. [**[JAVA]영어 끝말잇기(해쉬/배열)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/EndToEnd.java)
-4. [**[JAVA]위장(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Camouflage.java)
-5. [**[JAVA]주차 요금 계산하기(해쉬)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ParkingFee.java)
-6. [**[JAVA]순위 검색(해시, 정렬, 이진 탐색) : F Lab 코딩 테스트 문제**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/RankSearch.java)
-
-### Level 3
-1. [**[JAVA]베스트앨범**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/베스트앨범.java)
-   [README.md](README.md)
-## 재귀
-### Level 2
-1. [**[JAVA]타겟 넘버(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/TargetNumber.java)
-2. [**[JAVA]괄 변환(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ChangeBracket.java)
-3. [**[JAVA]피보나치 수(재귀, DP)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/FibonacciNumbers.java)
-4. [**[JAVA]쿼드 압축 개수 세기(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/쿼드압축개수세기.java)
-5. [**[JAVA]모음사전(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/모음사전.java)
-### Level 3
-1. [**[JAVA]하노이의 탑(재귀)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/하노이의탑.java)
-
-## DFS
-### Level 3
-1. [**[JAVA]네트워크**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/네트워크.java)
-
-## BFS
-### Level 3
-1. [**[JAVA]게임 맵 최단거리(BFS)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/GameMinRoot.java)
-2. [**[JAVA]단어 변환**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/WordChange.java)
-
-## 탐욕법(Greedy)
-### Level 2
-1. [**[JAVA]조이스틱(탐욕법)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/JoyStick.java)
-2. [**[JAVA]구명보트(탐욕법)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/LifeBoat.java)
-3. [**[JAVA]큰 수 만들기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/큰수만들기.java)
-4. [**[JAVA]요격 시스템**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/요격시스템.java)
-
-## 동적계획법(DP, Dynamic Programming)
-### Level 2
-1. [**[JAVA]멀리뛰기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/멀리뛰기.java)
-### Level 3
-1. [**[JAVA]등굣길(DP)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/GoToSchool.java)
-2. [**[JAVA]정수 삼각형**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/정수삼각형.java)
-
-## 힙
-### Level 2
-1. [**[JAVA]더 맵게(힙)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/MoreSpicy.java)
-
-## 구현
-### Level 2
-1. [**[JAVA]스킬트리**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/스킬트리.java)
-
-## 이진탐색
-### Level 3
-1. [**[JAVA]입국심사**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_3/입국심사.java)
-
-## 기타
-### Level 1
-1. [**[Javascript]서울에서 김서방찾기**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/findKim.md)
-2. [**[Javascript]가운데 글자 가져오기**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/midString.md)
-3. [**[Javascript]수박수박수박수박수박수?**](https://github.com/kimcno3/algorithms/blob/main/programmers/basic/waterMelon.md)
-4. [**[JAVA]신고 결과 받기(자료구조)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/ReportId.java)
-5. [**[JAVA]키패드 누르기(이중 루프)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/keyPad.java)
-6. [**[JAVA]약수의 개수와 덧셈(약수)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_1/CalcDivisor.java)
-### Level 2
-1. [**[JAVA]124 나라의 숫자**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Country124.java)
-2. [**[JAVA]튜플(리스트)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/Tuple.java)
-3. [**[JAVA]이진 변환 반복하기(문자열 탐색)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/BinaryRepeat.java)
-4. [**[JAVA]k진수에서 소수 개수 구하기(수학)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/PrimeCountWithK.java)
-5. [**[JAVA]예상 대진표(반복문)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/ExpectedTable.java)
-6. [**[JAVA]다음 큰 숫자(반복문)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/NextBiggerNumber.java)
-7. [**[JAVA]점프와 순간 이동**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/JumpAndTeleportation.java)
-8. [**[JAVA]N최소 공배수(유클리드 호제법)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/NLcm.java)
-9. [**[JAVA]N^2 배열 자르기**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/N제곱배열자르기.java)
-9. [**[JAVA]숫자블록(소수, 에라토스테네스의 체)**](https://github.com/kimcno3/algorithms/blob/main/programmers/level_2/숫자블록.java)
-
-## Dev-Matching 2022 코딩 테스트
-1. [**[JAVA]문제1(문자열 탐색) / 만점**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMatching/Solution1.java)
-2. [**[JAVA]문제2() / 미작성**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMatching/Solution2.java)
-3. [**[JAVA]문제3(DP) / 시간초과**](https://github.com/kimcno3/algorithms/blob/main/programmers/devMatching/Solution3.java)
-
-## Weekly Challenge
-1. [**[Javascript]부족한 금액 계산하기**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/moneyCalculator.md)
-2. [**[Javascript]모음사전**](https://github.com/kimcno3/algorithms/blob/main/programmers/weeklyChallenge/vowelsDictionary.md)
-
-## 코딩테스트 고득점 kit
-### 정렬
-1. [**[Javascript]K번째 수**](https://github.com/kimcno3/algorithms/blob/main/programmers/highScoreKit/k_number.md)
-### 해쉬
-1. [**[Javascript]완주하지 못한 선수**](https://github.com/kimcno3/algorithms/blob/main/programmers/highScoreKit/marathon.md)
-### 완전탐색
-1. [**[Javascript]모의고사**](https://github.com/kimcno3/algorithms/blob/main/programmers/highScoreKit/mockExam.md)
-### 스택
-1. [**[Javascript]쇠막대기**](https://github.com/kimcno3/algorithms/blob/main/programmers/highScoreKit/cuttingBar.md)
-
-<br>
-
-# :pushpin: 인프런
-## 쉽고 자연스럽게 배워보는 Javascript 입문 by 호눅스님
-1. [**[Javascript]소수찾기**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/findPirmeNumber.md)
-2. [**[Javascript]구구단**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/gugudan.md)
-3. [**[Javascript]계산기**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/calculator.md)
-4. [**[Javascript]단어퍼즐**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_1/wordsPuzzle.md)
-
-## 자바스크립트 알고리즘 문제풀이 by 김태원님
-1. [**[Javascript]섹션1 : 기초**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section1.md)
-2. [**[Javascript]섹션2 : 1,2차 배열 탐색**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section2.md)
-3. [**[Javascript]섹션3 : 문자열 탐색**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section3.md)
-4. [**[Javascript]섹션4 : 완전탐색(블루투포스)**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section4.md)
-5. [**[Javascript]섹션5 : 투포인터, 윈도우슬라이딩, 해쉬**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section5.md)
-6. [**[Javascript]섹션6 : 스택, 큐**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section6.md)
-7. [**[Javascript]섹션7 : 정렬, 그리디, 결정 알고리즘**](https://github.com/kimcno3/algorithms/blob/main/inflearn/inflearn_2/section7.md)
-
-<br>
-
-# :pushpin: 기타
-## 프로그램 구현
-1. [**[Javascript]숫자야구(구현 설명)**](https://github.com/code-squad/test-item-pool/blob/master/level2-common/level2.md)
-2. [**[Javascript]숫자야구(미완성 코드)**](https://github.com/kimcno3/algorithms/blob/main/etc/inflearn/numberBaseball.html)
+### 🚀 v1
+| 문제번호 | 링크 |
+| ----- | ----- |
+|baekjoon|[링크](./v1/baekjoon/Main.java)|
+### 🚀 baekjoon
+| 문제번호 | 링크 |
+| ----- | ----- |
+|collection|[링크](./v1/baekjoon/collection/No_9093.java)|
+### 🚀 greedyProgramming
+| 문제번호 | 링크 |
+| ----- | ----- |
+|No_18185|[링크](./v1/baekjoon/greedyProgramming/No_18185/Main.java)|
+### 🚀 implementationAndSimulation
+| 문제번호 | 링크 |
+| ----- | ----- |
+|No14501|[링크](./v1/baekjoon/implementationAndSimulation/No14501/Main.java)|
+|No14888|[링크](./v1/baekjoon/implementationAndSimulation/No14888/Main.java)|
+|No14889|[링크](./v1/baekjoon/implementationAndSimulation/No14889/Main.java)|
+|No14891|[링크](./v1/baekjoon/implementationAndSimulation/No14891/Main.java)|
+|No20546|[링크](./v1/baekjoon/implementationAndSimulation/No20546/Main.java)|
+|No2578|[링크](./v1/baekjoon/implementationAndSimulation/No2578/Main.java)|
+|No3190|[링크](./v1/baekjoon/implementationAndSimulation/No3190/Main.java)|
+|recursion|[링크](./v1/baekjoon/recursion/No_9663.java)|
+|string|[링크](./v1/baekjoon/string/No_11654.java)|
+|etc|[링크](./v1/etc/numberBaseball.html)|
+### 🚀 inflearn
+| 문제번호 | 링크 |
+| ----- | ----- |
+|inflearn_1|[링크](./v1/inflearn/inflearn_1/calculator.md)|
+|inflearn_2|[링크](./v1/inflearn/inflearn_2/section6.md)|
+|programmers|[링크](./v1/programmers/Solution.java)|
+### 🚀 programmers
+| 문제번호 | 링크 |
+| ----- | ----- |
+|basic|[링크](./v1/programmers/basic/findKim.md)|
+|devMatching|[링크](./v1/programmers/devMatching/Solution3.java)|
+|highScoreKit|[링크](./v1/programmers/highScoreKit/clawCraneGame.md)|
+|level_1|[링크](./v1/programmers/level_1/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%EC%A0%95%EB%A6%AC.java)|
+### 🚀 level_1
+| 문제번호 | 링크 |
+| ----- | ----- |
+|new_id|[링크](./v1/programmers/level_1/new_id/newId.java)|
+|level_2|[링크](./v1/programmers/level_2/ReductionString.java)|
+|level_3|[링크](./v1/programmers/level_3/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.java)|
+|weeklyChallenge|[링크](./v1/programmers/weeklyChallenge/moneyCalculator.md)|
+## 📚 백준
+### 🚀 Bronze
+| 문제번호 | 링크 |
+| ----- | ----- |
+|1001. A－B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1001.%E2%80%85A%EF%BC%8DB/A%EF%BC%8DB.java)|
+|10809. 알파벳 찾기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10809.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3%E2%80%85%EC%B0%BE%EA%B8%B0/%EC%95%8C%ED%8C%8C%EB%B2%B3%E2%80%85%EC%B0%BE%EA%B8%B0.java)|
+|10870. 피보나치 수 5|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10870.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%88%98%E2%80%855/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%88%98%E2%80%855.java)|
+|11654. 아스키 코드|[링크](./%EB%B0%B1%EC%A4%80/Bronze/11654.%E2%80%85%EC%95%84%EC%8A%A4%ED%82%A4%E2%80%85%EC%BD%94%EB%93%9C/%EC%95%84%EC%8A%A4%ED%82%A4%E2%80%85%EC%BD%94%EB%93%9C.java)|
+|11720. 숫자의 합|[링크](./%EB%B0%B1%EC%A4%80/Bronze/11720.%E2%80%85%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%ED%95%A9/%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%ED%95%A9.java)|
+|2605. 줄 세우기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2605.%E2%80%85%EC%A4%84%E2%80%85%EC%84%B8%EC%9A%B0%EA%B8%B0/%EC%A4%84%E2%80%85%EC%84%B8%EC%9A%B0%EA%B8%B0.java)|
+|9093. 단어 뒤집기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9093.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0/%EB%8B%A8%EC%96%B4%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0.java)|
+### 🚀 Diamond
+| 문제번호 | 링크 |
+| ----- | ----- |
+|18185. 라면 사기 （Small）|[링크](./%EB%B0%B1%EC%A4%80/Diamond/18185.%E2%80%85%EB%9D%BC%EB%A9%B4%E2%80%85%EC%82%AC%EA%B8%B0%E2%80%85%EF%BC%88Small%EF%BC%89/%EB%9D%BC%EB%A9%B4%E2%80%85%EC%82%AC%EA%B8%B0%E2%80%85%EF%BC%88Small%EF%BC%89.java)|
+### 🚀 Gold
+| 문제번호 | 링크 |
+| ----- | ----- |
+|14891. 톱니바퀴|[링크](./%EB%B0%B1%EC%A4%80/Gold/14891.%E2%80%85%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4/%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4.java)|
+|3190. 뱀|[링크](./%EB%B0%B1%EC%A4%80/Gold/3190.%E2%80%85%EB%B1%80/%EB%B1%80.java)|
+|9663. N－Queen|[링크](./%EB%B0%B1%EC%A4%80/Gold/9663.%E2%80%85N%EF%BC%8DQueen/N%EF%BC%8DQueen.java)|
+### 🚀 Silver
+| 문제번호 | 링크 |
+| ----- | ----- |
+|10799. 쇠막대기|[링크](./%EB%B0%B1%EC%A4%80/Silver/10799.%E2%80%85%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0/%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0.java)|
+|1343. 폴리오미노|[링크](./%EB%B0%B1%EC%A4%80/Silver/1343.%E2%80%85%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%AF%B8%EB%85%B8/%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%AF%B8%EB%85%B8.java)|
+|14501. 퇴사|[링크](./%EB%B0%B1%EC%A4%80/Silver/14501.%E2%80%85%ED%87%B4%EC%82%AC/%ED%87%B4%EC%82%AC.java)|
+|14888. 연산자 끼워넣기|[링크](./%EB%B0%B1%EC%A4%80/Silver/14888.%E2%80%85%EC%97%B0%EC%82%B0%EC%9E%90%E2%80%85%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0/%EC%97%B0%EC%82%B0%EC%9E%90%E2%80%85%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.java)|
+|14889. 스타트와 링크|[링크](./%EB%B0%B1%EC%A4%80/Silver/14889.%E2%80%85%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%E2%80%85%EB%A7%81%ED%81%AC/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%E2%80%85%EB%A7%81%ED%81%AC.java)|
+|14916. 거스름돈|[링크](./%EB%B0%B1%EC%A4%80/Silver/14916.%E2%80%85%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88/%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.java)|
+|15649. N과 M （1）|[링크](./%EB%B0%B1%EC%A4%80/Silver/15649.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%881%EF%BC%89/N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%881%EF%BC%89.java)|
+|15650. N과 M （2）|[링크](./%EB%B0%B1%EC%A4%80/Silver/15650.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%882%EF%BC%89/N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%882%EF%BC%89.java)|
+|15651. N과 M （3）|[링크](./%EB%B0%B1%EC%A4%80/Silver/15651.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%883%EF%BC%89/N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%883%EF%BC%89.java)|
+|15654. N과 M （5）|[링크](./%EB%B0%B1%EC%A4%80/Silver/15654.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%885%EF%BC%89/N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%885%EF%BC%89.java)|
+|17413. 단어 뒤집기 2|[링크](./%EB%B0%B1%EC%A4%80/Silver/17413.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0%E2%80%852/%EB%8B%A8%EC%96%B4%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0%E2%80%852.java)|
+|1927. 최소 힙|[링크](./%EB%B0%B1%EC%A4%80/Silver/1927.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%ED%9E%99/%EC%B5%9C%EC%86%8C%E2%80%85%ED%9E%99.java)|
+|1991. 트리 순회|[링크](./%EB%B0%B1%EC%A4%80/Silver/1991.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%88%9C%ED%9A%8C/%ED%8A%B8%EB%A6%AC%E2%80%85%EC%88%9C%ED%9A%8C.java)|
+|1992. 쿼드트리|[링크](./%EB%B0%B1%EC%A4%80/Silver/1992.%E2%80%85%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC/%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC.java)|
+|20546. 🐜 기적의 매매법 🐜|[링크](./%EB%B0%B1%EC%A4%80/Silver/20546.%E2%80%85%F0%9F%90%9C%E2%80%85%EA%B8%B0%EC%A0%81%EC%9D%98%E2%80%85%EB%A7%A4%EB%A7%A4%EB%B2%95%E2%80%85%F0%9F%90%9C/%F0%9F%90%9C%E2%80%85%EA%B8%B0%EC%A0%81%EC%9D%98%E2%80%85%EB%A7%A4%EB%A7%A4%EB%B2%95%E2%80%85%F0%9F%90%9C.java)|
+|2578. 빙고|[링크](./%EB%B0%B1%EC%A4%80/Silver/2578.%E2%80%85%EB%B9%99%EA%B3%A0/%EB%B9%99%EA%B3%A0.java)|
+|2630. 색종이 만들기|[링크](./%EB%B0%B1%EC%A4%80/Silver/2630.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|
+|6012. The Big Dance|[링크](./%EB%B0%B1%EC%A4%80/Silver/6012.%E2%80%85The%E2%80%85Big%E2%80%85Dance/The%E2%80%85Big%E2%80%85Dance.java)|
+|6603. 로또|[링크](./%EB%B0%B1%EC%A4%80/Silver/6603.%E2%80%85%EB%A1%9C%EB%98%90/%EB%A1%9C%EB%98%90.java)|
+|9934. 완전 이진 트리|[링크](./%EB%B0%B1%EC%A4%80/Silver/9934.%E2%80%85%EC%99%84%EC%A0%84%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC/%EC%99%84%EC%A0%84%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%8A%B8%EB%A6%AC.java)|
+## 📚 프로그래머스
+### 🚀 lv0
+| 문제번호 | 링크 |
+| ----- | ----- |
+|120810. 나머지 구하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120810.%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/%EB%82%98%EB%A8%B8%EC%A7%80%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0.java)|
+|120811. 중앙값 구하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120811.%E2%80%85%EC%A4%91%EC%95%99%EA%B0%92%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/%EC%A4%91%EC%95%99%EA%B0%92%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0.java)|
+|120817. 배열의 평균값|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120817.%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%ED%8F%89%EA%B7%A0%EA%B0%92/%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%ED%8F%89%EA%B7%A0%EA%B0%92.java)|
+|120866. 안전지대|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120866.%E2%80%85%EC%95%88%EC%A0%84%EC%A7%80%EB%8C%80/%EC%95%88%EC%A0%84%EC%A7%80%EB%8C%80.java)|
+|120871. 저주의 숫자 3|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120871.%E2%80%85%EC%A0%80%EC%A3%BC%EC%9D%98%E2%80%85%EC%88%AB%EC%9E%90%E2%80%853/%EC%A0%80%EC%A3%BC%EC%9D%98%E2%80%85%EC%88%AB%EC%9E%90%E2%80%853.java)|
+|120956. 옹알이 （1）|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120956.%E2%80%85%EC%98%B9%EC%95%8C%EC%9D%B4%E2%80%85%EF%BC%881%EF%BC%89/%EC%98%B9%EC%95%8C%EC%9D%B4%E2%80%85%EF%BC%881%EF%BC%89.java)|
+### 🚀 lv1
+| 문제번호 | 링크 |
+| ----- | ----- |
+|12903. 가운데 글자 가져오기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12903.%E2%80%85%EA%B0%80%EC%9A%B4%EB%8D%B0%E2%80%85%EA%B8%80%EC%9E%90%E2%80%85%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0/%EA%B0%80%EC%9A%B4%EB%8D%B0%E2%80%85%EA%B8%80%EC%9E%90%E2%80%85%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.js)|
+|12906. 같은 숫자는 싫어|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12906.%E2%80%85%EA%B0%99%EC%9D%80%E2%80%85%EC%88%AB%EC%9E%90%EB%8A%94%E2%80%85%EC%8B%AB%EC%96%B4/%EA%B0%99%EC%9D%80%E2%80%85%EC%88%AB%EC%9E%90%EB%8A%94%E2%80%85%EC%8B%AB%EC%96%B4.java)|
+|12917. 문자열 내림차순으로 배치하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12917.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%E2%80%85%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0/%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%E2%80%85%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.java)|
+|12919. 서울에서 김서방 찾기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12919.%E2%80%85%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%E2%80%85%EA%B9%80%EC%84%9C%EB%B0%A9%E2%80%85%EC%B0%BE%EA%B8%B0/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%E2%80%85%EA%B9%80%EC%84%9C%EB%B0%A9%E2%80%85%EC%B0%BE%EA%B8%B0.js)|
+|12922. 수박수박수박수박수박수？|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12922.%E2%80%85%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EF%BC%9F/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EF%BC%9F.js)|
+|12926. 시저 암호|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12926.%E2%80%85%EC%8B%9C%EC%A0%80%E2%80%85%EC%95%94%ED%98%B8/%EC%8B%9C%EC%A0%80%E2%80%85%EC%95%94%ED%98%B8.java)|
+|12930. 이상한 문자 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12930.%E2%80%85%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EB%AC%B8%EC%9E%90%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/%EC%9D%B4%EC%83%81%ED%95%9C%E2%80%85%EB%AC%B8%EC%9E%90%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|
+|12944. 평균 구하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12944.%E2%80%85%ED%8F%89%EA%B7%A0%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/%ED%8F%89%EA%B7%A0%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0.java)|
+|12977. 소수 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12977.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/%EC%86%8C%EC%88%98%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|
+|12982. 예산|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12982.%E2%80%85%EC%98%88%EC%82%B0/%EC%98%88%EC%82%B0.java)|
+|17681. ［1차］ 비밀지도|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/17681.%E2%80%85%EF%BC%BB1%EC%B0%A8%EF%BC%BD%E2%80%85%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84/%EF%BC%BB1%EC%B0%A8%EF%BC%BD%E2%80%85%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.java)|
+|17682. ［1차］ 다트 게임|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/17682.%E2%80%85%EF%BC%BB1%EC%B0%A8%EF%BC%BD%E2%80%85%EB%8B%A4%ED%8A%B8%E2%80%85%EA%B2%8C%EC%9E%84/%EF%BC%BB1%EC%B0%A8%EF%BC%BD%E2%80%85%EB%8B%A4%ED%8A%B8%E2%80%85%EA%B2%8C%EC%9E%84.java)|
+|1845. 폰켓몬|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/1845.%E2%80%85%ED%8F%B0%EC%BC%93%EB%AA%AC/%ED%8F%B0%EC%BC%93%EB%AA%AC.java)|
+|42576. 완주하지 못한 선수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/42576.%E2%80%85%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%E2%80%85%EB%AA%BB%ED%95%9C%E2%80%85%EC%84%A0%EC%88%98/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%E2%80%85%EB%AA%BB%ED%95%9C%E2%80%85%EC%84%A0%EC%88%98.java)|
+|42748. K번째수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/42748.%E2%80%85K%EB%B2%88%EC%A7%B8%EC%88%98/K%EB%B2%88%EC%A7%B8%EC%88%98.java)|
+|42840. 모의고사|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/42840.%E2%80%85%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js)|
+|42862. 체육복|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/42862.%E2%80%85%EC%B2%B4%EC%9C%A1%EB%B3%B5/%EC%B2%B4%EC%9C%A1%EB%B3%B5.java)|
+|64061. 크레인 인형뽑기 게임|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/64061.%E2%80%85%ED%81%AC%EB%A0%88%EC%9D%B8%E2%80%85%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84/%ED%81%AC%EB%A0%88%EC%9D%B8%E2%80%85%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%E2%80%85%EA%B2%8C%EC%9E%84.js)|
+|67256. ［카카오 인턴］ 키패드 누르기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/67256.%E2%80%85%EF%BC%BB%EC%B9%B4%EC%B9%B4%EC%98%A4%E2%80%85%EC%9D%B8%ED%84%B4%EF%BC%BD%E2%80%85%ED%82%A4%ED%8C%A8%EB%93%9C%E2%80%85%EB%88%84%EB%A5%B4%EA%B8%B0/%EF%BC%BB%EC%B9%B4%EC%B9%B4%EC%98%A4%E2%80%85%EC%9D%B8%ED%84%B4%EF%BC%BD%E2%80%85%ED%82%A4%ED%8C%A8%EB%93%9C%E2%80%85%EB%88%84%EB%A5%B4%EA%B8%B0.java)|
+|68644. 두 개 뽑아서 더하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/68644.%E2%80%85%EB%91%90%E2%80%85%EA%B0%9C%E2%80%85%EB%BD%91%EC%95%84%EC%84%9C%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0/%EB%91%90%E2%80%85%EA%B0%9C%E2%80%85%EB%BD%91%EC%95%84%EC%84%9C%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0.java)|
+|70128. 내적|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/70128.%E2%80%85%EB%82%B4%EC%A0%81/%EB%82%B4%EC%A0%81.java)|
+|72410. 신규 아이디 추천|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/72410.%E2%80%85%EC%8B%A0%EA%B7%9C%E2%80%85%EC%95%84%EC%9D%B4%EB%94%94%E2%80%85%EC%B6%94%EC%B2%9C/%EC%8B%A0%EA%B7%9C%E2%80%85%EC%95%84%EC%9D%B4%EB%94%94%E2%80%85%EC%B6%94%EC%B2%9C.java)|
+|76501. 음양 더하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/76501.%E2%80%85%EC%9D%8C%EC%96%91%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0/%EC%9D%8C%EC%96%91%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0.java)|
+|77484. 로또의 최고 순위와 최저 순위|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/77484.%E2%80%85%EB%A1%9C%EB%98%90%EC%9D%98%E2%80%85%EC%B5%9C%EA%B3%A0%E2%80%85%EC%88%9C%EC%9C%84%EC%99%80%E2%80%85%EC%B5%9C%EC%A0%80%E2%80%85%EC%88%9C%EC%9C%84/%EB%A1%9C%EB%98%90%EC%9D%98%E2%80%85%EC%B5%9C%EA%B3%A0%E2%80%85%EC%88%9C%EC%9C%84%EC%99%80%E2%80%85%EC%B5%9C%EC%A0%80%E2%80%85%EC%88%9C%EC%9C%84.java)|
+|77884. 약수의 개수와 덧셈|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/77884.%E2%80%85%EC%95%BD%EC%88%98%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98%EC%99%80%E2%80%85%EB%8D%A7%EC%85%88/%EC%95%BD%EC%88%98%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98%EC%99%80%E2%80%85%EB%8D%A7%EC%85%88.java)|
+|81301. 숫자 문자열과 영단어|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/81301.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%E2%80%85%EC%98%81%EB%8B%A8%EC%96%B4/%EC%88%AB%EC%9E%90%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%E2%80%85%EC%98%81%EB%8B%A8%EC%96%B4.java)|
+|82612. 부족한 금액 계산하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/82612.%E2%80%85%EB%B6%80%EC%A1%B1%ED%95%9C%E2%80%85%EA%B8%88%EC%95%A1%E2%80%85%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0/%EB%B6%80%EC%A1%B1%ED%95%9C%E2%80%85%EA%B8%88%EC%95%A1%E2%80%85%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.py)|
+|86051. 없는 숫자 더하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/86051.%E2%80%85%EC%97%86%EB%8A%94%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0/%EC%97%86%EB%8A%94%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0.java)|
+|86491. 최소직사각형|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/86491.%E2%80%85%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.java)|
+|92334. 신고 결과 받기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/92334.%E2%80%85%EC%8B%A0%EA%B3%A0%E2%80%85%EA%B2%B0%EA%B3%BC%E2%80%85%EB%B0%9B%EA%B8%B0/%EC%8B%A0%EA%B3%A0%E2%80%85%EA%B2%B0%EA%B3%BC%E2%80%85%EB%B0%9B%EA%B8%B0.java)|
+### 🚀 lv2
+| 문제번호 | 링크 |
+| ----- | ----- |
+|118667. 두 큐 합 같게 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/118667.%E2%80%85%EB%91%90%E2%80%85%ED%81%90%E2%80%85%ED%95%A9%E2%80%85%EA%B0%99%EA%B2%8C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/%EB%91%90%E2%80%85%ED%81%90%E2%80%85%ED%95%A9%E2%80%85%EA%B0%99%EA%B2%8C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|
+|12899. 124 나라의 숫자|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12899.%E2%80%85124%E2%80%85%EB%82%98%EB%9D%BC%EC%9D%98%E2%80%85%EC%88%AB%EC%9E%90/124%E2%80%85%EB%82%98%EB%9D%BC%EC%9D%98%E2%80%85%EC%88%AB%EC%9E%90.java)|
+|12909. 올바른 괄호|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12909.%E2%80%85%EC%98%AC%EB%B0%94%EB%A5%B8%E2%80%85%EA%B4%84%ED%98%B8/%EC%98%AC%EB%B0%94%EB%A5%B8%E2%80%85%EA%B4%84%ED%98%B8.java)|
+|12911. 다음 큰 숫자|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12911.%E2%80%85%EB%8B%A4%EC%9D%8C%E2%80%85%ED%81%B0%E2%80%85%EC%88%AB%EC%9E%90/%EB%8B%A4%EC%9D%8C%E2%80%85%ED%81%B0%E2%80%85%EC%88%AB%EC%9E%90.java)|
+|12914. 멀리 뛰기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12914.%E2%80%85%EB%A9%80%EB%A6%AC%E2%80%85%EB%9B%B0%EA%B8%B0/%EB%A9%80%EB%A6%AC%E2%80%85%EB%9B%B0%EA%B8%B0.java)|
+|12939. 최댓값과 최솟값|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12939.%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92.java)|
+|12941. 최솟값 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12941.%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/%EC%B5%9C%EC%86%9F%EA%B0%92%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|
+|12945. 피보나치 수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12945.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%88%98/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%88%98.java)|
+|12946. 하노이의 탑|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12946.%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%E2%80%85%ED%83%91/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%E2%80%85%ED%83%91.java)|
+|12949. 행렬의 곱셈|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12949.%E2%80%85%ED%96%89%EB%A0%AC%EC%9D%98%E2%80%85%EA%B3%B1%EC%85%88/%ED%96%89%EB%A0%AC%EC%9D%98%E2%80%85%EA%B3%B1%EC%85%88.java)|
+|12951. JadenCase 문자열 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12951.%E2%80%85JadenCase%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/JadenCase%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|
+|12953. N개의 최소공배수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12953.%E2%80%85N%EA%B0%9C%EC%9D%98%E2%80%85%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/N%EA%B0%9C%EC%9D%98%E2%80%85%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.java)|
+|12973. 짝지어 제거하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12973.%E2%80%85%EC%A7%9D%EC%A7%80%EC%96%B4%E2%80%85%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/%EC%A7%9D%EC%A7%80%EC%96%B4%E2%80%85%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.java)|
+|12980. 점프와 순간 이동|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12980.%E2%80%85%EC%A0%90%ED%94%84%EC%99%80%E2%80%85%EC%88%9C%EA%B0%84%E2%80%85%EC%9D%B4%EB%8F%99/%EC%A0%90%ED%94%84%EC%99%80%E2%80%85%EC%88%9C%EA%B0%84%E2%80%85%EC%9D%B4%EB%8F%99.java)|
+|12981. 영어 끝말잇기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12981.%E2%80%85%EC%98%81%EC%96%B4%E2%80%85%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0/%EC%98%81%EC%96%B4%E2%80%85%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.java)|
+|12985. 예상 대진표|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/12985.%E2%80%85%EC%98%88%EC%83%81%E2%80%85%EB%8C%80%EC%A7%84%ED%91%9C/%EC%98%88%EC%83%81%E2%80%85%EB%8C%80%EC%A7%84%ED%91%9C.java)|
+|131701. 연속 부분 수열 합의 개수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/131701.%E2%80%85%EC%97%B0%EC%86%8D%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4%E2%80%85%ED%95%A9%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/%EC%97%B0%EC%86%8D%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4%E2%80%85%ED%95%A9%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98.java)|
+|17677. ［1차］ 뉴스 클러스터링|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/17677.%E2%80%85%EF%BC%BB1%EC%B0%A8%EF%BC%BD%E2%80%85%EB%89%B4%EC%8A%A4%E2%80%85%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81/%EF%BC%BB1%EC%B0%A8%EF%BC%BD%E2%80%85%EB%89%B4%EC%8A%A4%E2%80%85%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.java)|
+|1844. 게임 맵 최단거리|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/1844.%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%85%EB%A7%B5%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC/%EA%B2%8C%EC%9E%84%E2%80%85%EB%A7%B5%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.java)|
+|42577. 전화번호 목록|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42577.%E2%80%85%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%E2%80%85%EB%AA%A9%EB%A1%9D/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%E2%80%85%EB%AA%A9%EB%A1%9D.java)|
+|42578. 의상|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42578.%E2%80%85%EC%9D%98%EC%83%81/%EC%9D%98%EC%83%81.java)|
+|42583. 다리를 지나는 트럭|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42583.%E2%80%85%EB%8B%A4%EB%A6%AC%EB%A5%BC%E2%80%85%EC%A7%80%EB%82%98%EB%8A%94%E2%80%85%ED%8A%B8%EB%9F%AD/README.md)|
+|42586. 기능개발|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42586.%E2%80%85%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.java)|
+|42587. 프로세스|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42587.%E2%80%85%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.java)|
+|42626. 더 맵게|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42626.%E2%80%85%EB%8D%94%E2%80%85%EB%A7%B5%EA%B2%8C/%EB%8D%94%E2%80%85%EB%A7%B5%EA%B2%8C.java)|
+|42746. 가장 큰 수|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42746.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%ED%81%B0%E2%80%85%EC%88%98/%EA%B0%80%EC%9E%A5%E2%80%85%ED%81%B0%E2%80%85%EC%88%98.java)|
+|42747. H－Index|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42747.%E2%80%85H%EF%BC%8DIndex/H%EF%BC%8DIndex.java)|
+|42839. 소수 찾기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42839.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0/%EC%86%8C%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0.java)|
+|42842. 카펫|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42842.%E2%80%85%EC%B9%B4%ED%8E%AB/%EC%B9%B4%ED%8E%AB.java)|
+|42883. 큰 수 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42883.%E2%80%85%ED%81%B0%E2%80%85%EC%88%98%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/%ED%81%B0%E2%80%85%EC%88%98%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|
+|42888. 오픈채팅방|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42888.%E2%80%85%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java)|
+|43165. 타겟 넘버|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/43165.%E2%80%85%ED%83%80%EA%B2%9F%E2%80%85%EB%84%98%EB%B2%84/README.md)|
+|49993. 스킬트리|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/49993.%E2%80%85%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.java)|
+|60057. 문자열 압축|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/60057.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%95%95%EC%B6%95/%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%95%95%EC%B6%95.java)|
+|60058. 괄호 변환|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/60058.%E2%80%85%EA%B4%84%ED%98%B8%E2%80%85%EB%B3%80%ED%99%98/%EA%B4%84%ED%98%B8%E2%80%85%EB%B3%80%ED%99%98.java)|
+|64065. 튜플|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/64065.%E2%80%85%ED%8A%9C%ED%94%8C/%ED%8A%9C%ED%94%8C.java)|
+|67257. ［카카오 인턴］ 수식 최대화|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/67257.%E2%80%85%EF%BC%BB%EC%B9%B4%EC%B9%B4%EC%98%A4%E2%80%85%EC%9D%B8%ED%84%B4%EF%BC%BD%E2%80%85%EC%88%98%EC%8B%9D%E2%80%85%EC%B5%9C%EB%8C%80%ED%99%94/%EF%BC%BB%EC%B9%B4%EC%B9%B4%EC%98%A4%E2%80%85%EC%9D%B8%ED%84%B4%EF%BC%BD%E2%80%85%EC%88%98%EC%8B%9D%E2%80%85%EC%B5%9C%EB%8C%80%ED%99%94.java)|
+|68645. 삼각 달팽이|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/68645.%E2%80%85%EC%82%BC%EA%B0%81%E2%80%85%EB%8B%AC%ED%8C%BD%EC%9D%B4/%EC%82%BC%EA%B0%81%E2%80%85%EB%8B%AC%ED%8C%BD%EC%9D%B4.java)|
+|68936. 쿼드압축 후 개수 세기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/68936.%E2%80%85%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95%E2%80%85%ED%9B%84%E2%80%85%EA%B0%9C%EC%88%98%E2%80%85%EC%84%B8%EA%B8%B0/%EC%BF%BC%EB%93%9C%EC%95%95%EC%B6%95%E2%80%85%ED%9B%84%E2%80%85%EA%B0%9C%EC%88%98%E2%80%85%EC%84%B8%EA%B8%B0.java)|
+|70129. 이진 변환 반복하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/70129.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%EB%B3%80%ED%99%98%E2%80%85%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0/%EC%9D%B4%EC%A7%84%E2%80%85%EB%B3%80%ED%99%98%E2%80%85%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.java)|
+|72411. 메뉴 리뉴얼|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/72411.%E2%80%85%EB%A9%94%EB%89%B4%E2%80%85%EB%A6%AC%EB%89%B4%EC%96%BC/%EB%A9%94%EB%89%B4%E2%80%85%EB%A6%AC%EB%89%B4%EC%96%BC.java)|
+|72412. 순위 검색|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/72412.%E2%80%85%EC%88%9C%EC%9C%84%E2%80%85%EA%B2%80%EC%83%89/%EC%88%9C%EC%9C%84%E2%80%85%EA%B2%80%EC%83%89.java)|
+|76502. 괄호 회전하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/76502.%E2%80%85%EA%B4%84%ED%98%B8%E2%80%85%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0/%EA%B4%84%ED%98%B8%E2%80%85%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java)|
+|77485. 행렬 테두리 회전하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/77485.%E2%80%85%ED%96%89%EB%A0%AC%E2%80%85%ED%85%8C%EB%91%90%EB%A6%AC%E2%80%85%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0/%ED%96%89%EB%A0%AC%E2%80%85%ED%85%8C%EB%91%90%EB%A6%AC%E2%80%85%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java)|
+|81302. 거리두기 확인하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/81302.%E2%80%85%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%E2%80%85%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%E2%80%85%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.java)|
+|84512. 모음 사전|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/84512.%E2%80%85%EB%AA%A8%EC%9D%8C%E2%80%85%EC%82%AC%EC%A0%84/%EB%AA%A8%EC%9D%8C%E2%80%85%EC%82%AC%EC%A0%84.java)|
+|87377. 교점에 별 만들기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/87377.%E2%80%85%EA%B5%90%EC%A0%90%EC%97%90%E2%80%85%EB%B3%84%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/%EA%B5%90%EC%A0%90%EC%97%90%E2%80%85%EB%B3%84%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|
+|87390. n＾2 배열 자르기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/87390.%E2%80%85n%EF%BC%BE2%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/n%EF%BC%BE2%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0.java)|
+|87946. 피로도|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/87946.%E2%80%85%ED%94%BC%EB%A1%9C%EB%8F%84/%ED%94%BC%EB%A1%9C%EB%8F%84.java)|
+|92335. k진수에서 소수 개수 구하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/92335.%E2%80%85k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EA%B0%9C%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EA%B0%9C%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0.java)|
+|92341. 주차 요금 계산|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/92341.%E2%80%85%EC%A3%BC%EC%B0%A8%E2%80%85%EC%9A%94%EA%B8%88%E2%80%85%EA%B3%84%EC%82%B0/%EC%A3%BC%EC%B0%A8%E2%80%85%EC%9A%94%EA%B8%88%E2%80%85%EA%B3%84%EC%82%B0.java)|
+### 🚀 lv3
+| 문제번호 | 링크 |
+| ----- | ----- |
+|42579. 베스트앨범|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv3/42579.%E2%80%85%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.java)|
+|43105. 정수 삼각형|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv3/43105.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95/%EC%A0%95%EC%88%98%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95.java)|
+|43162. 네트워크|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv3/43162.%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.java)|
+|43163. 단어 변환|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv3/43163.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EB%B3%80%ED%99%98/%EB%8B%A8%EC%96%B4%E2%80%85%EB%B3%80%ED%99%98.java)|
+|64064. 불량 사용자|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv3/64064.%E2%80%85%EB%B6%88%EB%9F%89%E2%80%85%EC%82%AC%EC%9A%A9%EC%9E%90/%EB%B6%88%EB%9F%89%E2%80%85%EC%82%AC%EC%9A%A9%EC%9E%90.java)|
+### 🚀 unrated
+| 문제번호 | 링크 |
+| ----- | ----- |
+|138476. 귤 고르기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/138476.%E2%80%85%EA%B7%A4%E2%80%85%EA%B3%A0%EB%A5%B4%EA%B8%B0/%EA%B7%A4%E2%80%85%EA%B3%A0%EB%A5%B4%EA%B8%B0.java)|
+|161990. 바탕화면 정리|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/161990.%E2%80%85%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%E2%80%85%EC%A0%95%EB%A6%AC/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%E2%80%85%EC%A0%95%EB%A6%AC.java)|
+|181188. 요격 시스템|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/181188.%E2%80%85%EC%9A%94%EA%B2%A9%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C/%EC%9A%94%EA%B2%A9%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C.java)|
