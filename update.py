@@ -34,9 +34,8 @@ def main():
             continue
 
         dirname = os.path.dirname(root)
-        
-        if dirname in ["v1"]:
-            continue
+
+        print(dirname)
         
         directory = os.path.basename(dirname)
         
