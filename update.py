@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import os
+import re
 from urllib import parse
 
 HEADER="""# 
@@ -31,8 +32,13 @@ def main():
         
         if category == 'images':
             continue
+
+        dirname = os.path.dirname(root)
         
-        directory = os.path.basename(os.path.dirname(root))
+        if dirname in ["v1"]
+            continue
+        
+        directory = os.path.basename(dirname)
         
         if directory == '.':
             continue
@@ -40,8 +46,6 @@ def main():
         if directory not in directories:
             if directory in ["백준", "프로그래머스"]:
                 content += "## 📚 {}\n".format(directory)
-            elif directory in ["v1"]:
-                continue
             else:
                 content += "### 🚀 {}\n".format(directory)
                 content += "| 문제번호 | 링크 |\n"
