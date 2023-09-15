@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashMap;
 
-// 트리 순회
+// 트리 순회 : https://www.acmicpc.net/problem/1991
 public class Main {
   static int n;
   static HashMap<String, Boolean> visit = new HashMap<>();
@@ -20,18 +20,22 @@ public class Main {
       visit.put(split[0], false);
     }
 
+    // 전위 순회
     preorder("A");
     sb.append("\n");
 
+    // 중위 순회
     inorder("A");
     sb.append("\n");
 
+    // 후위 순회
     postorder("A");
     sb.append("\n");
 
     System.out.println(sb);
   }
-   // 전위
+
+   // 전위 순회 : (루트) (왼쪽 자식) (오른쪽 자식)
   public static void preorder(String node) {
     if (!visit.get(node)) {
       visit.put(node, true);
@@ -46,12 +50,10 @@ public class Main {
         preorder(childNode);
       }
     }
-      
     visit.put(node, false);
-      
   }
 
-  // 중위 (왼쪽 자식) (루트) (오른쪽 자식)
+  // 중위 순회 : (왼쪽 자식) (루트) (오른쪽 자식)
   public static void inorder(String node) {
     String left = arr.get(node)[0];
     String right = arr.get(node)[1];
@@ -75,7 +77,7 @@ public class Main {
 
   }
 
-  // 후위 (왼쪽 자식) (오른쪽 자식) (루트)
+  // 후위 순회 : (왼쪽 자식) (오른쪽 자식) (루트)
   public static void postorder(String node) {
     String left = arr.get(node)[0];
     String right = arr.get(node)[1];
@@ -96,5 +98,6 @@ public class Main {
     sb.append(node);
 
     visit.put(node, false);
+
   }
 }
