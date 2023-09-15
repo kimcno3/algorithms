@@ -3,51 +3,6 @@
 
 프로그래머스의 경우, 푼 문제 목록에 대한 마이그레이션이 필요합니다.
 
-### 🚀 v1
-| 문제번호 | 링크 |
-| ----- | ----- |
-|baekjoon|[링크](./v1/baekjoon/Main.java)|
-### 🚀 baekjoon
-| 문제번호 | 링크 |
-| ----- | ----- |
-|collection|[링크](./v1/baekjoon/collection/No_9093.java)|
-### 🚀 greedyProgramming
-| 문제번호 | 링크 |
-| ----- | ----- |
-|No_18185|[링크](./v1/baekjoon/greedyProgramming/No_18185/Main.java)|
-### 🚀 implementationAndSimulation
-| 문제번호 | 링크 |
-| ----- | ----- |
-|No14501|[링크](./v1/baekjoon/implementationAndSimulation/No14501/Main.java)|
-|No14888|[링크](./v1/baekjoon/implementationAndSimulation/No14888/Main.java)|
-|No14889|[링크](./v1/baekjoon/implementationAndSimulation/No14889/Main.java)|
-|No14891|[링크](./v1/baekjoon/implementationAndSimulation/No14891/Main.java)|
-|No20546|[링크](./v1/baekjoon/implementationAndSimulation/No20546/Main.java)|
-|No2578|[링크](./v1/baekjoon/implementationAndSimulation/No2578/Main.java)|
-|No3190|[링크](./v1/baekjoon/implementationAndSimulation/No3190/Main.java)|
-|recursion|[링크](./v1/baekjoon/recursion/No_9663.java)|
-|string|[링크](./v1/baekjoon/string/No_11654.java)|
-|etc|[링크](./v1/etc/numberBaseball.html)|
-### 🚀 inflearn
-| 문제번호 | 링크 |
-| ----- | ----- |
-|inflearn_1|[링크](./v1/inflearn/inflearn_1/calculator.md)|
-|inflearn_2|[링크](./v1/inflearn/inflearn_2/section6.md)|
-|programmers|[링크](./v1/programmers/Solution.java)|
-### 🚀 programmers
-| 문제번호 | 링크 |
-| ----- | ----- |
-|basic|[링크](./v1/programmers/basic/findKim.md)|
-|devMatching|[링크](./v1/programmers/devMatching/Solution3.java)|
-|highScoreKit|[링크](./v1/programmers/highScoreKit/clawCraneGame.md)|
-|level_1|[링크](./v1/programmers/level_1/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%EC%A0%95%EB%A6%AC.java)|
-### 🚀 level_1
-| 문제번호 | 링크 |
-| ----- | ----- |
-|new_id|[링크](./v1/programmers/level_1/new_id/newId.java)|
-|level_2|[링크](./v1/programmers/level_2/ReductionString.java)|
-|level_3|[링크](./v1/programmers/level_3/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.java)|
-|weeklyChallenge|[링크](./v1/programmers/weeklyChallenge/moneyCalculator.md)|
 ## 📚 백준
 ### 🚀 Bronze
 | 문제번호 | 링크 |
