@@ -1,6 +1,12 @@
 import java.io.*;
 import java.util.*;
 
+/**
+ * 느낀 점
+ * 풀이는 완료했지만 DP로 접근해보려 했던 점이 아쉽다. 잘못된 판단
+ * 다른 풀이들을 보면 굳이 visits를 쓰지 않고도 충분히 구현이 가능했다.(참고자료 : https://easybrother0103.tistory.com/60)
+ */
+
 public class Main {
 
     static int N;
