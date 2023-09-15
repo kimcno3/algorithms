@@ -40,7 +40,7 @@ def main():
         if directory not in directories:
             if directory in ["백준", "프로그래머스"]:
                 content += "## 📚 {}\n".format(directory)
-            else if directory in ["v1"]:
+            elif directory in ["v1"]:
                 continue
             else:
                 content += "### 🚀 {}\n".format(directory)
