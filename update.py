@@ -35,7 +35,7 @@ def main():
 
         dirname = os.path.dirname(root)
 
-        if dirname.startsWith("./v1") :
+        if dirname.startswith("./v1") :
             continue
         
         directory = os.path.basename(dirname)
