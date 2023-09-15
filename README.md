@@ -3,6 +3,10 @@
 
 프로그래머스의 경우, 푼 문제 목록에 대한 마이그레이션이 필요합니다.
 
+### 🚀 v1
+| 문제번호 | 링크 |
+| ----- | ----- |
+|baekjoon|[링크](./v1/baekjoon/Main.java)|
 ### 🚀 baekjoon
 | 문제번호 | 링크 |
 | ----- | ----- |
@@ -23,11 +27,13 @@
 |No3190|[링크](./v1/baekjoon/implementationAndSimulation/No3190/Main.java)|
 |recursion|[링크](./v1/baekjoon/recursion/No_9663.java)|
 |string|[링크](./v1/baekjoon/string/No_11654.java)|
+|etc|[링크](./v1/etc/numberBaseball.html)|
 ### 🚀 inflearn
 | 문제번호 | 링크 |
 | ----- | ----- |
 |inflearn_1|[링크](./v1/inflearn/inflearn_1/calculator.md)|
 |inflearn_2|[링크](./v1/inflearn/inflearn_2/section6.md)|
+|programmers|[링크](./v1/programmers/Solution.java)|
 ### 🚀 programmers
 | 문제번호 | 링크 |
 | ----- | ----- |
