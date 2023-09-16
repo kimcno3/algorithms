@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import os
-import re
 from urllib import parse
 
 HEADER="""# 
@@ -35,7 +34,7 @@ def main():
 
         dirname = os.path.dirname(root)
 
-        if dirname.startswith("./v1") :
+        if dirname.startswith("./v1") or dirname.startswith("./category") :
             continue
         
         directory = os.path.basename(dirname)
