@@ -1,5 +1,10 @@
 import java.io.*;
 
+/*
+ * dp 문제인지도 몰랐다...
+ * 유형별 문제를 풀어야 할 듯 하다. 감이 잡힐 때까지
+ */
+
 public class Main {
 
     public static void main(String[] args) throws IOException {
