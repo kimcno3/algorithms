@@ -6,7 +6,7 @@ from urllib import parse
 HEADER="""# 
 # 백준 & 프로그래머스 문제 풀이 목록
 
-> 유형별 문제를 확인하고 싶다면 [여기](https://github.com/kimcno3/algorithms/tree/main/category)를 클릭하세요!
+> 유형별 문제를 확인하고 싶다면 [여기](./category)를 클릭하세요!
 
 """
 
@@ -34,28 +34,25 @@ def main():
 
         dirname = os.path.dirname(root)
 
-        if dirname.startswith("./v1") or dirname.startswith("./category") :
+        # 테이블에 포함하고자 하는 디렉토리 이름 외 다른 이름들은 제외
+        if not dirname.startswith("./프로그래머스") and not dirname.startswith("./백준") :
             continue
-        
+
         directory = os.path.basename(dirname)
-        
+
         if directory == '.':
             continue
             
         if directory not in directories:
             if directory in ["백준", "프로그래머스"]:
                 content += "## 📚 {}\n".format(directory)
-            else:
-                content += "### 🚀 {}\n".format(directory)
-                content += "| 문제번호 | 링크 |\n"
-                content += "| ----- | ----- |\n"
+                content += "| 문제번호 | 링크 | 난이도 |\n"
+                content += "| ----- | ----- | ----- |\n"
             directories.append(directory)
-
         for file in files:
             if category not in solveds:
-                content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root)))
+                content += "|{}|[링크]({})|{}|\n".format(category, parse.quote(os.path.join(root)), directory)
                 solveds.append(category)
-                print("category : " + category)
 
     with open("README.md", "w") as fd:
         fd.write(content)
