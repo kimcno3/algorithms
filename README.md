@@ -38,6 +38,7 @@
 |1758. 알바생 강호|[링크](./%EB%B0%B1%EC%A4%80/Silver/1758.%E2%80%85%EC%95%8C%EB%B0%94%EC%83%9D%E2%80%85%EA%B0%95%ED%98%B8)|Silver|
 |1904. 01타일|[링크](./%EB%B0%B1%EC%A4%80/Silver/1904.%E2%80%8501%ED%83%80%EC%9D%BC)|Silver|
 |1927. 최소 힙|[링크](./%EB%B0%B1%EC%A4%80/Silver/1927.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%ED%9E%99)|Silver|
+|1931. 회의실 배정|[링크](./%EB%B0%B1%EC%A4%80/Silver/1931.%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95)|Silver|
 |1991. 트리 순회|[링크](./%EB%B0%B1%EC%A4%80/Silver/1991.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%88%9C%ED%9A%8C)|Silver|
 |1992. 쿼드트리|[링크](./%EB%B0%B1%EC%A4%80/Silver/1992.%E2%80%85%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC)|Silver|
 |19941. 햄버거 분배|[링크](./%EB%B0%B1%EC%A4%80/Silver/19941.%E2%80%85%ED%96%84%EB%B2%84%EA%B1%B0%E2%80%85%EB%B6%84%EB%B0%B0)|Silver|
