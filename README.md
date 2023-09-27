@@ -18,6 +18,7 @@
 |3190. 뱀|[링크](./%EB%B0%B1%EC%A4%80/Gold/3190.%E2%80%85%EB%B1%80)|Gold|
 |9663. N－Queen|[링크](./%EB%B0%B1%EC%A4%80/Gold/9663.%E2%80%85N%EF%BC%8DQueen)|Gold|
 |10799. 쇠막대기|[링크](./%EB%B0%B1%EC%A4%80/Silver/10799.%E2%80%85%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0)|Silver|
+|1080. 행렬|[링크](./%EB%B0%B1%EC%A4%80/Silver/1080.%E2%80%85%ED%96%89%EB%A0%AC)|Silver|
 |11399. ATM|[링크](./%EB%B0%B1%EC%A4%80/Silver/11399.%E2%80%85ATM)|Silver|
 |11501. 주식|[링크](./%EB%B0%B1%EC%A4%80/Silver/11501.%E2%80%85%EC%A3%BC%EC%8B%9D)|Silver|
 |11508. 2＋1 세일|[링크](./%EB%B0%B1%EC%A4%80/Silver/11508.%E2%80%852%EF%BC%8B1%E2%80%85%EC%84%B8%EC%9D%BC)|Silver|
